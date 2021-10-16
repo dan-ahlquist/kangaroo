@@ -124,7 +124,7 @@ baseball,ball
 2d,second,2nd,ordinal
 2nd,second,2d,ordinal
 3,three,iii,cardinal,three,III,trio,threesome,tierce,leash,troika,triad,trine,trinity,ternary,ternion,triplet,tercet,terzetto,trey,digit,figure
-3D,movie,film,picture,pic,flick,3D,appearance,
+3D,movie,film,picture,pic,flick,3D,appearance
 baseball,ball
 3.14159265358979323846...,pi
 30,thirty,xxx,cardinal,thirty,XXX
@@ -258,7 +258,7 @@ a'man,A'man
 list,listing
 ace,crack,super,tiptop,topnotch,tops,superior
 team,squad
-a.d.,AD,A.D.,
+a.d.,AD,A.D.
 a.e.,Russell,A.E.,writer,author
 a.k.a.,alias
 a.m.,antemeridian,A.M.
@@ -1164,7 +1164,7 @@ addition,improver,component,constituent,element,increase,increase,gain,accession
 additional,further,more,added,supplementary,supplemental,added,extra,other,added,else,added,another,added
 additive,additive,accumulative,cumulative,summational,summative,addable,addible,linear,bilinear,addition,improver
 addle,muddle,puddle,jumble,confuse,spoil
-addlehead,loon,birdbrain,misfit,
+addlehead,loon,birdbrain,misfit
 addlebrained,addlepated,potty,puddingheaded,muddleheaded,confused
 addled,stale,befuddled,muddled,muzzy,woolly,wooly,confused
 addlehead,loon,birdbrain,misfit
@@ -1675,7 +1675,7 @@ afrikaner,Afrikaans,Afrikaner,Afrikaner,Afrikander,Boer
 afrl,AFRL,agency,bureau,office,authority
 afro,Afro,hairdo,coiffure
 black,American
-Afroasiatic,Afrasian,tongue,
+Afroasiatic,Afrasian,tongue
 hairpiece,postiche
 afroasiatic,Afroasiatic,Afrasian,tongue
 afrocarpus,Afrocarpus
@@ -1950,7 +1950,7 @@ air,air,aerial,aerial,flying,gas,aviation,travel,traveling,travelling,region,par
 process,treat,supply,provide,render,furnish
 drop,unload,discharge
 slack,slake
-airtight,invulnerable,airtight,tight,
+airtight,invulnerable,airtight,tight
 airborne,mobile
 airbrake,restraint,constraint,brake
 airbrush,atomizer,atomiser,spray,sprayer,paint
@@ -2053,7 +2053,6 @@ Qaeda,Base,FTO
 Qaeda,Base,FTO
 Qaeda,Base,FTO
 Koran,Quran,Book
-FTO,
 ala,process,outgrowth,appendage,wing
 alabama,Alabama,AL,Alabama,Muskhogean,Muskogean,Alabama,river,Alabama,Muskhogean,Muskogean
 alabaman,Alabaman,Alabamian,American
@@ -2326,7 +2325,7 @@ all,all,each,every,every,complete,wholly,entirely,completely,totally,altogether,
 blanket,broad,encompassing,panoptic,wide,comprehensive
 blanket,broad,encompassing,panoptic,wide,comprehensive
 immoderate,bloody,damn
-crucial,essential,important,
+crucial,essential,important
 blanket,broad,encompassing,panoptic,wide,comprehensive
 omniscient,wise
 almighty,omnipotent,powerful
@@ -2467,7 +2466,7 @@ almoner,caseworker
 almoravid,Almoravid,Berber
 almost,about,most,nearly,near,nigh,virtually
 alms,almsgiving,charity
-alms,almsgiving,charity,
+alms,almsgiving,charity
 almsgiver,donor,giver,presenter
 almsgiving,alms,charity
 alnico,Alnico,alloy,metal
@@ -2500,7 +2499,6 @@ alpena,Alpena,town,port
 alpenstock,staff
 alpestrine,subalpine,upland
 alpha,important,exploratory,explorative,letter,start
-blocker,
 HDL,lipoprotein
 tocopherol,E
 alphabet,script,rudiment,ABC,ABC's,ABCs,fundamentals,basics,bedrock
@@ -4236,7 +4234,7 @@ apulia,Puglia,Apulia
 apus,Apus,constellation,Apus
 aqaba,Aqaba,Akaba,city,metropolis
 aqua,aquamarine,turquoise,blue,blueness
-aqualung,scuba,ventilator,
+aqualung,scuba,ventilator
 aquacultural,aquicultural,hydroponic,farming,agriculture,husbandry
 aquaculture,cultivation
 aqualung,scuba,ventilator
@@ -4939,7 +4937,7 @@ asexual,asexual,nonsexual,agamic,agamous,agamogenetic,apomictic,parthenogenetic,
 asexuality,sexlessness
 asgard,Asgard
 ash,residue,tree,wood,change,alter,modify
-ashcan,wastebin,ashbin,dustbin,bin,,
+ashcan,wastebin,ashbin,dustbin,bin
 towheaded,blond,blonde
 ashy,achromatic
 ashy,achromatic
@@ -5943,7 +5941,7 @@ azygous,azygos,single
 azymia,pathology
 b,B,Bacillus,Bacilli,B,eubacteria,eubacterium,B,boron,B,element,bel,B,barn,B,letter
 meson,mesotron
-b.c.,BC,B.C.,
+b.c.,BC,B.C.
 b.o.,B.O.,malodorousness,stinkiness,foulness,rankness
 b.t.u.,B.T.U.,BTU,B.Th.U.
 b.th.u.,BTU,B.Th.U.
@@ -5974,7 +5972,7 @@ babu,baboo,man
 babushka,headscarf
 baby,babe,infant,child,kid,sister,girl,miss,missy,fille,offspring,progeny,issue,child,person,individual,someone,somebody,mortal,human,soul,undertaking,project,task,labor,pamper,featherbed,cosset,cocker,coddle,mollycoddle,spoil,indulge,treat,handle
 sit,guard
-babysitter,sitter,keeper,
+babysitter,sitter,keeper
 walker,framework,frame,framing
 babyhood,infancy,infancy,immaturity,immatureness
 babyish,immature
@@ -6015,7 +6013,7 @@ bacilliform,baccilar,bacillary,baculiform,formed
 bacillus,Bacillus,Bacilli,B,eubacteria,eubacterium
 bacitracin,antibiotic
 back,back,backmost,hindermost,hindmost,rearmost,rear,rearward,aft,posterior,hind,hinder,posterior,noncurrent,dorsum,rear,side,rear,position,place,footballer,spine,backbone,rachis,binding,cover,protection,backrest,support,position,endorse,indorse,support,approve,O.K.,okay,sanction,travel,go,move,locomote,second,endorse,indorse,support,finance,lie,gage,stake,game,punt,bet,wager,play,switch,shift,confirm,corroborate,sustain,substantiate,support,affirm,strengthen,backward,backwards,rearward,rearwards,backward
-backblast,backfire,
+backblast,backfire
 channel,line
 consecutive,succeeding
 backache,ache,aching
@@ -6536,7 +6534,6 @@ barite,barytes,mineral
 baritone,low,barytone,singer,vocalist,vocalizer,vocaliser,brass
 barium,Ba,metal
 bark,covering,cover,noise,barque,cry,talk,speak,utter,mouth,verbalize,verbalise,cover,skin,strip,utter,emit,tan
-psocid,
 barkeep,bartender,barman,barkeeper,mixologist,employee
 barkeeper,bartender,barman,barkeep,mixologist,employee
 barker,promoter,booster,plugger,pooch,doggie,doggy,dog
@@ -6963,9 +6960,8 @@ becoming,comely,decent,decorous,seemly,proper,flattering
 becomingness,decorum,decorousness
 becquerel,Becquerel,physicist
 bed,furniture,plot,patch,bottom,depression,stratum,seam,stratum,layer,sheet,surface,foundation,base,fundament,foot,groundwork,substructure,understructure,supply,provide,render,furnish,plant,set,put,set,place,pose,position,lay,love,know,screw,fuck,jazz,eff,hump,bang,bonk,copulate,mate,pair,couple,retire
-boardinghouse,
-bedground,area,country,,
-bedhop,fornicate,
+bedground,area,country
+bedhop,fornicate
 beda,Bede,Baeda,Beda,theologian,theologist,theologizer,theologiser,saint,Doctor,historian,historiographer
 bedamn,curse,beshrew,damn,anathemize,anathemise,imprecate,maledict,raise,conjure,invoke,evoke,stir,arouse
 bedaub,besmear,cover
@@ -7319,7 +7315,7 @@ bennington,Bennington,town
 benniseed,flavorer,flavourer,flavoring,flavouring,seasoner,seasoning
 benny,sesame,benne,benni,herb,Benny,comedian,comic
 bent,crooked,resolute,bended,unerect,bowed,inclined,unerect,crumpled,dented,damaged,set,inclination,disposition,tendency,grass,knack,hang,endowment,gift,talent
-bent,grass,
+bent,grass
 benthal,benthic,benthonic
 bentham,Bentham,philosopher,jurist
 benthic,benthal,benthonic
@@ -7530,7 +7526,7 @@ bezzant,bezant,byzant,solidus,coin
 bhadon,Bhadon,Bhadrapada
 bhadrapada,Bhadon,Bhadrapada
 bhaga,Bhaga
-Bhagavadgita,Gita,
+Bhagavadgita,Gita
 bhagavadgita,Bhagavadgita,Gita
 bhakti,devotion
 bharat,India,Bharat
@@ -7859,7 +7855,7 @@ birchbark,canoe
 birchen,birch,birken,woody
 bird,vertebrate,craniate,fowl,meat,dame,doll,wench,skirt,chick,girl,miss,missy,fille,boo,hoot,hiss,raspberry,razzing,snort,cry,outcry,call,yell,shout,vociferation,shuttlecock,birdie,shuttle,birdwatch,observe
 panoramic,wide,broad
-birdnest,gather,garner,collect,
+birdnest,gather,garner,collect
 gaywings,milkwort
 scarecrow,strawman,scarer,effigy,image,simulacrum
 birdbath,basin
@@ -7995,7 +7991,6 @@ blabby,bigmouthed,blabbermouthed,talkative,indiscreet
 blaberus,Blaberus
 black,black,achromatic,dark,black,colored,coloured,dark,negro,negroid,angry,dark,sinister,evil,wicked,bleak,dim,hopeless,calamitous,disastrous,fatal,fateful,unfortunate,blackened,colored,coloured,colorful,dark,grim,mordant,sarcastic,covert,bootleg,contraband,smuggled,illegal,disgraceful,ignominious,inglorious,opprobrious,shameful,dishonorable,dishonourable,undiluted,clothed,clad,dirty,soiled,unclean,blackness,lightlessness,blackness,dark,darkness,Black,chemist,Black,actress,Black,blackamoor,Negro,Negroid,person,individual,someone,somebody,mortal,human,soul,man,piece,clothing,vesture,wear,blacken,melanize,melanise,nigrify,discolor,discolour,colour,color
 livid,injured
-divided,
 brunet,brunette
 bootleg,black,contraband,smuggled,illegal
 semiformal,formal
@@ -8336,7 +8331,7 @@ blowing,processing
 blowjob,fellatio,fellation
 blowlamp,blowtorch,torch,burner
 blown,moving,formed,gasping,panting,pursy,winded,breathless,dyspneic,dyspnoeic,dyspneal,dyspnoeal
-inflated,enlarged,large,
+inflated,enlarged,large
 blowout,runaway,romp,laugher,walkaway,victory,triumph,malfunction,gala,jamboree,celebration,festivity
 blowpipe,blowtube,tube,tubing,blowgun,blowtube,tube,tubing
 blowsy,blowzy,slatternly,sluttish,untidy
@@ -8642,7 +8637,6 @@ bonduc,chicot,tree,tree
 bondwoman,bondswoman,bondmaid,bondswoman,bondmaid,slave
 bone,bony,boney,os,ivory,pearl,white,whiteness,cram,drum,swot,study,debone,remove,take,withdraw
 armored,armoured
-dry,
 boned,deboned,boneless,bony,boney
 bonefish,malacopterygian
 bonehead,dunce,dunderhead,numskull,blockhead,lunkhead,hammerhead,knucklehead,loggerhead,muttonhead,shithead,fuckhead,simpleton,simple
@@ -8878,8 +8872,6 @@ botticelli,Botticelli
 bottle,vessel,bottleful,containerful,store,put,set,place,pose,position,lay
 bottlecap,cap
 breastfeed,suckle,suck,nurse,lactate,feed,give,bottlefeed,feed,give
-foxtail,
-tree,
 bottlebrush,brush
 bottlecap,cap
 bottlefeed,feed,give
@@ -9007,7 +8999,7 @@ box,container,loge,compartment,boxful,containerful,corner,predicament,quandary,p
 boxberry,partridgeberry,twinberry,vine,wintergreen,checkerberry,teaberry,spiceberry,berry
 boxcars,twelve,12,XII,dozen,boxcar
 boxed,bordered,enclosed
-boxed,enclosed,
+boxed,enclosed
 boxer,pugilist,combatant,battler,belligerent,fighter,scrapper,packer,bagger,workman,Boxer,Chinese
 boxers,drawers,underdrawers,shorts,boxershorts,underpants,boxer,pugilist,combatant,battler,belligerent,fighter,scrapper,packer,bagger,boxer,workman,Boxer,Chinese,boxer
 boxershorts,drawers,underdrawers,shorts,boxers,underpants
@@ -9118,9 +9110,8 @@ braiding,braid,trimming,trim,passementerie
 brail,net,rope,furl,fish
 braille,Braille,educator,pedagogue,Braille,transliterate,transcribe
 brain,encephalon,brainpower,mentality,wit,intelligence,mind,head,psyche,nous,cognition,knowledge,noesis,genius,mastermind,Einstein,intellectual,intellect,organs,hit,kill
-brainstem,,
 riddle,conundrum,enigma,problem
-brainworker,thinker,
+brainworker,thinker
 braincase,cranium,brainpan,bone,os
 brainchild,inspiration,product,production
 brainish,hotheaded,impulsive,impetuous,madcap,tearaway,incautious
@@ -9235,7 +9226,7 @@ breach,failure,opening,gap,rupture,break,severance,rift,separation,breakup,detac
 breached,broken
 bread,breadstuff,boodle,cabbage,clams,dinero,dough,gelt,kale,lettuce,lolly,lucre,loot,moolah,pelf,scratch,shekels,simoleons,sugar,wampum,money,cover
 breadbox,container
-breadstick,bread,breadstuff,
+breadstick,bread,breadstuff
 breadbasket,region,stomach,tummy,tum,viscus,basket,handbasket
 breadboard,board
 breadbox,container
@@ -9249,8 +9240,8 @@ breadthways,breadthwise,broadwise
 breadthwise,breadthways,broadwise
 breadwinner,earner
 break,interruption,happening,occurrence,accident,fortuity,fault,shift,fracture,crack,cleft,crevice,fissure,scissure,rupture,breach,severance,rift,separation,breakup,detachment,respite,recess,pause,breakage,breaking,pause,intermission,interruption,suspension,interval,fracture,injury,hurt,harm,trauma,separation,breakup,detachment,stroke,shot,score,interruption,disruption,gap,delay,holdup,dash,sprint,score,breakout,jailbreak,gaolbreak,prisonbreak,escape,flight,interrupt,end,terminate,separate,separate,divide,damage,bust,destroy,ruin,transgress,offend,infract,violate,breach,disrespect,escape,disperse,dissipate,scatter,burst,erupt,discontinue,stop,end,terminate,trespass,intrude,domesticate,domesticize,domesticise,reclaim,tame,violate,better,surpass,outstrip,outmatch,outgo,exceed,outdo,surmount,outperform,disclose,reveal,discover,expose,divulge,impart,tell,become,go,get,fail,die,go,change,separate,part,split,flee,fly,collapse,give,founder,dampen,damp,soften,weaken,deaden,blunt,change,end,stop,finish,terminate,cease,change,alter,vary,discontinue,stop,cease,quit,emerge,happen,hap,occur,pass,ruin,invalidate,annul,quash,void,avoid,nullify,separate,part,split,demote,bump,relegate,delegate,designate,depute,assign,bankrupt,ruin,smash,impoverish,switch,shift,change,appear,collapse,give,founder,change,dance,change,exchange,commute,convert,change,alter,modify,shoot,separate,disunite,divide,part,wear,bust,decay,crumble,delapidate,detach,penetrate,perforate,pause,intermit,interrupt,disrupt,interrupt,disrupt,diphthongize,diphthongise,destroy,ruin,solve,lick,work,switch,shift,change,recrudesce,develop,happen,hap,occur,pass,crack,check,change,turn,decrease,diminish,lessen,fall,fracture,injure,wound,decrease,diminish,lessen,fall,weaken
-breakax,breakaxe,tree,
-break,dance,
+breakax,breakaxe,tree
+break,dance
 housebreaking,burglary
 breakability,fragility,vulnerability
 breakable,breakable,brittle,brickle,brickly,crumbly,delicate,fragile,frail,frangible,splintery,friable,article
@@ -9357,7 +9348,7 @@ brickwork,masonry
 brickyard,brickfield,workshop,shop
 bricole,catapult,arbalest,arbalist,ballista,mangonel,onager,trebuchet,trebucket,artillery,gun,ordnance
 bridal,nuptial,spousal,ceremony,ceremonial,observance,participant,espousal,marriage,wedding
-shrub,bush,spirea,spiraea,
+shrub,bush,spirea,spiraea
 bride,newlywed,honeymooner,Bridget,Brigid,Bride,abbess,prioress,saint,participant
 fiancee,betrothed
 bridecake,cake
@@ -9382,7 +9373,7 @@ briefly,concisely,shortly
 briefness,shortness,brevity,transience,duration,length
 briefs,underpants,brief,instrument,brief,outline,synopsis,abstract,precis
 brier,brierpatch,vegetation,flora,branchlet,twig,sprig,sweetbrier,sweetbriar,briar,eglantine,rose,bullbrier,greenbrier,catbrier,briar,vine,briar,erica
-briarwood,brierwood,wood,
+briarwood,brierwood,wood
 brierpatch,brier,vegetation,flora
 brierwood,briarwood,wood
 briery,barbed,barbellate,briary,bristled,bristly,burred,burry,prickly,setose,setaceous,spiny,thorny,armed
@@ -9459,7 +9450,6 @@ brittanic,Brythonic,Brittanic,Celtic
 brittany,Bretagne,Brittany,Breiz
 britten,Britten,conductor,director,composer
 brittle,brickle,brickly,breakable,coldhearted,unannealed,untempered,unhardened,toffee,toffy,candy
-echinoderm,
 brittlebush,incienso,wildflower
 brittleness,crispness,crispiness,breakableness
 brno,Brno,Brunn,city,metropolis
@@ -9564,7 +9554,7 @@ brooke,Brooke,poet
 brooklyn,Brooklyn,borough
 brooks,Brooks,brook,creek,stream,watercourse
 broom,shrub,bush,heather,ling,heath,sweep,wipe,finish
-broomweed,matchweed,matchbush,
+broomweed,matchweed,matchbush
 broomcorn,sorghum
 broomstick,handle,grip,handgrip,hold
 broomweed,matchweed,matchbush
@@ -9818,7 +9808,6 @@ bulkhead,partition,divider
 bulkiness,massiveness,largeness,bigness
 bulky,large
 bull,cattle,cows,kine,oxen,bruiser,strapper,Samson,man,bullshit,horseshit,shit,crap,dogshit,bunk,bunkum,buncombe,guff,rot,hogwash,blunder,blooper,bloomer,bungle,fuckup,flub,botch,boner,cop,copper,fuzz,pig,policeman,officer,investor,Taurus,Bull,person,individual,someone,somebody,mortal,human,soul,Taurus,Bull,sign,mansion,house,center,centre,midpoint,decree,edict,fiat,order,rescript,placental,eutherian,push,speculate,job,bullshit,fake,feign,sham,pretend,affect,dissemble,rise,climb
-colubrid,
 bulla,blister,bleb,vesicle,cyst,seal,stamp
 bullace,plum
 bullate,rough,unsmooth
@@ -9881,7 +9870,7 @@ bumptious,forward
 bumptiousness,cockiness,pushiness,forwardness,assertiveness
 bumpy,jarring,jolting,jolty,rough,unsmooth
 bun,roll,bread,breadstuff
-bunfight,party,
+bunfight,party
 bunce,boom,bonanza,gravy,godsend,windfall,happening,occurrence
 bunch,clump,cluster,clustering,agglomeration,crowd,crew,gang,gathering,assemblage,lot,caboodle,collection,aggregation,accumulation,assemblage,cluster,constellate,flock,clump,bundle,cluster,clump,form
 bunchberry,crackerberry,dogwood,cornel
@@ -10100,12 +10089,11 @@ buteo,Buteo
 buteonine,hawk
 butler,pantryman,manservant
 butt,stock,goat,laughingstock,stooge,victim,dupe,buttocks,nates,arse,backside,bum,buns,can,fundament,hindquarters,keister,posterior,prat,rear,rump,stern,seat,tail,tooshie,tush,bottom,behind,derriere,fanny,ass,target,cigarette,cigaret,fag,smoke,joint,barrel,cask,stub,part,portion,border,adjoin,edge,abut,march,touch,adjoin,meet,contact,bunt,strike,put,set,place,pose,position,lay
-butt,,buttweld,weld,
-welding,
+butt,buttweld,weld
 butte,hill,Butte,town
 butter,food,combatant,battler,belligerent,fighter,scrapper,cover
 toadflax,flower
-buttercup,butterflower,crowfoot,goldcup,kingcup,herb,
+buttercup,butterflower,crowfoot,goldcup,kingcup,herb
 velvetleaf,velvetweed,mallow
 butterball,fatso,fatty,bufflehead,dipper,duck
 butterbur,herb
@@ -10126,7 +10114,7 @@ buttock,cheek
 buttocks,nates,arse,butt,backside,bum,buns,can,fundament,hindquarters,keister,posterior,prat,rear,rump,stern,seat,tail,tooshie,tush,bottom,behind,derriere,fanny,ass,buttock,cheek
 button,fastener,fastening,holdfast,fixing,push,switch,clitoris,clit,add,fasten,fix,secure
 conservative,conventional,buttoned,fastened
-hemipode,wader,
+hemipode,wader
 buttoned,buttoned,fastened,botonee,botonnee
 conservative,conventional
 taciturn,conservative
@@ -10167,9 +10155,8 @@ by,past,aside,away
 future,hereafter,futurity
 offer,bid,tender
 bastard,illegitimate,whoreson,offspring,progeny,issue
-bycatch,
 line,avocation,hobby,sideline,pastime,interest,pursuit
-byproduct,consequence,effect,outcome,result,event,issue,upshot,byproduct,product,production,
+byproduct,consequence,effect,outcome,result,event,issue,upshot,byproduct,product,production
 byblos,Byblos,dig,excavation
 bydgoszcz,Bydgoszcz,Bromberg,city,metropolis
 bye,pass,concession,conceding,yielding,adieu,adios,arrivederci,cheerio,goodby,goodbye,sayonara,farewell
@@ -10199,8 +10186,8 @@ byzantium,Byzantium,city,metropolis,Byzantium
 c,hundred,100,cardinal,C,degree,speed,velocity,constant,C,nucleotide,cytosine,C,pyrimidine,carbon,C,element,hundred,100,C,century,centred,coulomb,C,C,C,letter,coke,blow,snow,C,cocaine,cocain
 bill,note,banknote,greenback
 cesarean,cesarian,caesarean,delivery
-c.o.d.,C.O.D.,COD,
-c.p.u.,CPU,C.P.U.,processor,mainframe,hardware,
+c.o.d.,C.O.D.,COD
+c.p.u.,CPU,C.P.U.,processor,mainframe,hardware
 c2h6,ethane,C2H6,alkane,paraffin,hydrocarbon
 ca,calcium,Ca,metal,California,CA,Calif.
 stool,defecate,shit,crap,make,excrete,egest,eliminate,pass
@@ -10288,9 +10275,9 @@ cadaver,corpse,stiff,clay,remains,body
 cadaveric,body
 cadaverine,ptomaine,ptomain
 cadaverous,bony,emaciated,gaunt,haggard,pinched,skeletal,wasted,thin,lean
-trichopteran,trichopteron,
+trichopteran,trichopteron
 caddie,attendant,attender,tender,caddy,serve
-trichopteran,trichopteron,
+trichopteran,trichopteron
 caddish,unchivalrous,ungallant,discourteous
 caddisworm,strawworm,caseworm
 caddo,Caddo,Caddo,Caddoan,Amerind,Indian
@@ -11085,7 +11072,7 @@ carcinoid,tumor,tumour,neoplasm
 carcinoma,cancer
 carcinomatous,cancer
 card,paper,correspondence,cardboard,wag,wit,humorist,humourist,poster,posting,placard,notice,bill,sign,greeting,salutation,scorecard,record,book,menu,carte,bill,lineup,roll,roster,board,tease,separate,see,check,insure,ensure,control,ascertain,assure
-cardhouse,cardcastle,structure,construction,
+cardhouse,cardcastle,structure,construction
 dissipated,betting,gambling,sporting,indulgent
 cardamine,Cardamine
 cardamom,cardamon,herb,cardamon,cardamum,flavorer,flavourer,flavoring,flavouring,seasoner,seasoning
@@ -12084,7 +12071,7 @@ ceylonese,Ceylonese,island
 ceylonite,Ceylonite,pleonaste,spinel
 cezanne,Cezanne,painter
 cf,californium,Cf,metal,CF,mucoviscidosis,fibrosis,cf.,confer,see
-cf.,cf,confer,see,
+cf.,cf,confer,see
 cfc,chlorofluorocarbon,CFC,fluorocarbon,pollutant
 cfo,CFO
 ch'i,qi,chi,ki,energy,vim,vitality
@@ -12347,7 +12334,7 @@ charlemagne,Charlemagne,Carolingian,Carlovingian
 charleroi,Charleroi,city,metropolis
 charles,Charles,Charles,physicist,Charles,river
 charleston,Charleston,Charleston,city,metropolis,port
-spasm,cramp,
+spasm,cramp
 charlock,chadlock,mustard
 charlotte,Charlotte,city,metropolis,dessert,sweet,afters
 charlottetown,Charlottetown
@@ -12631,7 +12618,7 @@ chickadee,titmouse,tit
 chickamauga,Chickamauga
 chickasaw,Chickasaw,Indian,Chickasaw,Muskhogean,Muskogean
 chicken,chickenhearted,yellow,cowardly,fearful,poulet,volaille,poultry,fowl,poultry,wimp,crybaby,weakling,doormat,wuss,contest,competition
-chickenfight,fight,struggle,
+chickenfight,fight,struggle
 chickenfeed,cash
 chickenfight,fight,struggle
 chickenhearted,chicken,yellow,cowardly,fearful
@@ -13574,7 +13561,6 @@ click,chink,clink,sound,depression,stop,occlusive,plosive,pawl,detent,dog,catch,
 client,case,customer,consumer,node,guest,computer
 clientele,patronage,business,people
 cliff,drop,formation
-fern,
 suspenseful,suspensive,tense
 cliffhanger,contest,competition,episode,installment,instalment
 clifflike,cliffy,craggy,rugged,precipitous,rockbound
@@ -13678,7 +13664,6 @@ clop,clump,clunk,plunk,sound,go
 clorox,Clorox,bleach,whitener
 close,close,adjacent,next,ambient,appressed,adpressed,approximate,imminent,impending,contiguous,immediate,encompassing,surrounding,enveloping,juxtaposed,proximate,walking,nestled,snuggled,scalelike,close,approximate,near,boon,chummy,thick,confidential,cozy,dear,good,near,familiar,intimate,intimate,near,adjacent,moral,nearby,nearer,neighbor,neighbour,neighboring,neighbouring,nigh,warm,hot,nighest,nearest,careful,faithful,accurate,tight,equal,confining,confined,airless,stuffy,unaired,unventilated,tight,fine,restrained,private,snug,tight,short,cheeseparing,near,stingy,ungenerous,closelipped,closemouthed,secretive,tightlipped,uncommunicative,incommunicative,finale,finis,finish,last,conclusion,end,ending,conclusion,end,closing,ending,section,subdivision,finale,finis,finish,finishing,fold,end,terminate,shut,barricade,block,blockade,stop,bar,end,terminate,approach,near,conclude,end,stop,finish,terminate,cease,shut,turn,move,join,join,prosecute,engage,pursue,trade,end,terminate,move,fill,complete,finish,near,nigh,closely,tight
 close,snug,tight
-close,
 closed,closed,blocked,nonopening,drawn,stoppered,obstructed,sealed,shut,unopen,closed,shut,unopen,closed,shut,blinking,winking,compressed,tight,squinched,squinting,union,shuttered,restricted,unsympathetic,unreceptive,enclosed,folded,inactive
 supply,provide,render,furnish
 closedown,closure,closing,shutdown,termination,ending,conclusion
@@ -13742,8 +13727,7 @@ cloying,saccharine,syrupy,treacly,sweet
 clozapine,Clozaril,antipsychotic,neuroleptic
 clozaril,clozapine,Clozaril,antipsychotic,neuroleptic
 club,nine,society,guild,gild,lodge,order,association,stick,clubhouse,building,edifice,cabaret,nightclub,nightspot,spot,unite,unify,meet,gather,assemble,forgather,foregather,bludgeon,hit
-clubhead,head,,
-lycopod,
+clubhead,head
 clubable,clubbable,sociable
 clubbable,clubable,sociable
 clubbing,symptom
@@ -13801,18 +13785,18 @@ cnpz,ELN,CNPZ,FTO
 cns,CNS,system
 cnut,Canute,Cnut,Knut
 co,CO,monoxide,cobalt,Co,metal,CO,dissenter,dissident,protester,objector,contestant,Colorado,CO
-codefendant,defendant,suspect,
+codefendant,defendant,suspect
 coeducational,integrated,undergraduate,undergrad
-coeducate,educate,
-coincide,cooccur,coexist,
+coeducate,educate
+coincide,cooccur,coexist
 accompaniment,concomitant,happening,occurrence,concurrence,coincidence,conjunction,simultaneity,simultaneousness
 cooperative,coop,hencoop,henhouse,cage,coop,enclosure
 elect,neutralize,appoint,name,nominate,constitute,take,accept
 election,appointment,assignment,designation,naming
 election,appointment,assignment,designation,naming
-coordinate,number,
-corespondent,codefendant,
-cosign,validate,formalize,formalise,cosign,endorse,indorse,
+coordinate,number
+corespondent,codefendant
+cosign,validate,formalize,formalise,cosign,endorse,indorse
 star,principal,lead,star,star
 colleague,workfellow,associate
 co2,CO2,dioxide
@@ -13950,7 +13934,7 @@ cockhorse,plaything,toy
 cockiness,bumptiousness,pushiness,forwardness,assertiveness
 cockle,shellfish,bivalve,pelecypod,lamellibranch,ripple,ruffle,riffle,undulate,flow,flux,pucker,rumple,crumple,knit,wrinkle,ruckle,crease,crinkle,scrunch,crisp
 cocklebur,cockleburr,weed,cocklebur,burdock,clotbur
-cocklebur,cockleburr,weed,
+cocklebur,cockleburr,weed
 cocklebur,cockleburr,weed,burdock,clotbur
 cockleburr,cocklebur,weed
 cockloft,loft,attic,garret
@@ -15677,7 +15661,7 @@ coraciiformes,Coraciiformes
 coragyps,Coragyps
 corakan,ragi,ragee,coracan,kurakkan,millet
 coral,chromatic,pink,roe,anthozoan,actinozoan
-coralwood,tree,
+coralwood,tree
 coralbells,alumroot,alumbloom
 coralberry,shrub,bush,spiceberry,shrub,bush
 corallorhiza,Corallorhiza
@@ -15687,7 +15671,7 @@ coralwort,coralroot,bittercress
 corbel,truss,bracket,supply,provide,render,furnish
 corbelled,supply,provide,render,furnish
 corbett,Corbett,prizefighter,gladiator
-corbiestep,step,stair,
+corbiestep,step,stair
 corbiestep,step,stair
 corbina,whiting
 corchorus,subshrub,suffrutex,Corchorus
@@ -16071,7 +16055,7 @@ countdown,count,counting,numeration,enumeration,reckoning,tally
 countenance,visage,appearance,sanction,endorsement,indorsement,warrant,imprimatur,approval,commendation,physiognomy,phiz,visage,kisser,smiler,mug,face,permit,allow,let,accept,consent
 counter,antagonistic,negative,table,tabulator,calculator,buffet,sideboard,furniture,person,individual,someone,somebody,mortal,human,soul,rejoinder,retort,return,riposte,replication,comeback,reply,response,register,heel,counterpunch,parry,punch,clout,poke,lick,biff,answer,reply,respond,anticipate,foresee,forestall,act,move
 bore,drill
-counterrevolutionist,counterrevolutionary,revolutionist,revolutionary,subversive,subverter,
+counterrevolutionist,counterrevolutionary,revolutionist,revolutionary,subversive,subverter
 counteract,antagonize,antagonise,act,move,countercheck,control,hold,contain,check,curb,moderate,countervail,neutralize,counterbalance,cancel,offset,sabotage,undermine,countermine,subvert,weaken,disobey
 counteraction,neutralization,neutralisation,nullification,override
 counteractive,counteractive,antagonistic,antacid,antidotal,antiphlogistic,countervailing,countervailing,offsetting,compensatory,compensative,opposing
@@ -16595,7 +16579,7 @@ cringing,groveling,grovelling,wormlike,wormy,submissive
 cringle,eyelet,loop,grommet,grummet,fastener,fastening,holdfast,fixing
 crinion,trichion,point
 crinkle,wrinkle,furrow,crease,seam,line,depression,impression,imprint,wrinkle,ruckle,crease,scrunch,crisp,fold,rumple,crumple,wrinkle,crease,fold
-crinkleroot,toothwort,bittercress,,
+crinkleroot,toothwort,bittercress
 crinkled,crinkly,rippled,wavy,wavelike,uneven
 crinkleroot,toothwort,bittercress
 crinkly,crinkled,rippled,wavy,wavelike,uneven
@@ -16718,7 +16702,7 @@ mention,advert,cite,name,refer
 citation,acknowledgment,credit,reference,mention,quotation
 section,crosswise
 stitch,embroidery,fancywork
-crosstown,crossed,across,
+crosstown,crossed,across
 crossbar,bar,crosspiece
 crossbeam,trave,traverse,crosspiece,beam
 crossbench,seat
@@ -16785,7 +16769,7 @@ croupy,angina
 crouse,Crouse,dramatist,playwright
 crouton,bread,breadstuff
 crow,cry,Crow,Sioux,Siouan,Corvus,Crow,constellation,brag,bragging,crowing,vaporing,gasconade,boast,boasting,jactitation,Crow,Siouan,gloat,triumph,boast,tout,swash,brag,gas,blow,bluster,vaunt,gasconade,utter,emit,utter,emit
-crowbait,mount,
+crowbait,mount
 crowbait,mount
 crowbar,pry,lever
 crowberry,shrub,bush
@@ -16795,7 +16779,7 @@ crowding,situation
 crowfoot,buttercup,butterflower,goldcup,kingcup,herb
 crowing,boastful,braggart,bragging,braggy,big,proud,brag,bragging,crow,vaporing,gasconade,boast,boasting,jactitation
 crown,Crown,symbol,top,wreath,garland,coronal,chaplet,lei,diadem,vertex,peak,apex,acme,coin,capitulum,treetop,top,peak,crest,top,tip,summit,place,spot,pennant,award,accolade,honor,honour,laurels,pate,poll,top,upside,crest,top,upside,coronate,invest,vest,enthrone,top,culminate,climax,head,cover
-crownbeard,composite,,
+crownbeard,composite
 crownbeard,composite
 crowned,crowned,capped,laureled,laurelled,crowned,capped,chapleted,comate,comose,royal
 crowning,ultimate,top
@@ -17534,7 +17518,7 @@ d,500,cardinal,calciferol,viosterol,ergocalciferol,cholecarciferol,D,500,D,D,let
 region,part
 d.c.,D.C.,DC,DC,electricity
 d.o.a.,dead
-d.p.r.k.,D.P.R.K.,DPRK,
+d.p.r.k.,D.P.R.K.,DPRK
 da,DA,prosecutor
 da'wah,dawah,mission
 dab,tap,pat,touch,touching,splash,splatter,swab,swob,apply,pat,strike
@@ -17615,7 +17599,7 @@ dairyman,farmer,husbandman,granger,sodbuster,farmhand,fieldhand
 dais,podium,pulpit,rostrum,ambo,stump,soapbox,platform
 daishiki,dashiki,shirt
 daisy,flower
-daisybush,shrub,bush,,
+daisybush,shrub,bush
 connect,link,tie
 daisybush,shrub,bush
 daisylike,flower
@@ -17709,7 +17693,7 @@ dangerously,perilously,hazardously
 dangerousness,characteristic
 dangla,Dangla,Dangaleat
 dangle,swing,drop,hang,suspend
-dangleberry,huckleberry,
+dangleberry,huckleberry
 dangleberry,huckleberry
 dangling,suspension,hanging,support,supporting
 daniel,Daniel,prophet,Daniel,judge,justice,jurist,magistrate,Daniel,book
@@ -17816,7 +17800,7 @@ experimental,observational,empirical,empiric
 database,information,info
 datable,datable,dateable,dated
 date,day,day,appointment,engagement,meeting,point,present,nowadays,escort,companion,comrade,fellow,familiar,associate,month,stamp,determine,set,see,consort,associate,affiliate,assort,supply,provide,render,furnish
-dateline,datemark,date,
+dateline,datemark,date
 dateable,datable,dated
 dated,unfashionable,unstylish,datable,dateable
 dateless,endless,sempiternal,infinite,undatable,undated,undatable,timeless,unaltered,unchanged
@@ -17904,12 +17888,11 @@ destress,change,alter,modify
 destress,change,alter,modify
 decrease,diminish,lessen,fall,weaken,decrease,lessen,minify
 decrease,diminution,reduction
-defrost,deice,dissolve,thaw,unfreeze,unthaw,dethaw,melt,
+defrost,deice,dissolve,thaw,unfreeze,unthaw,dethaw,melt
 remove,take,withdraw
 remove,take,withdraw
-denazification,
-destalinization,destalinisation,
-destalinization,destalinisation,
+destalinization,destalinisation
+destalinization,destalinisation
 dea,DEA
 deaccession,sell
 deacon,clergyman,reverend,order
@@ -18253,7 +18236,7 @@ deeds,works,activity,deed,feat,effort,exploit,accomplishment,achievement,deed,ti
 deem,hold,see,consider,reckon,view,regard
 deep,deep,heavy,profound,sound,wakeless,profound,profound,deep,abysmal,abyssal,unfathomable,bottomless,profound,unfathomed,unplumbed,unsounded,unfathomable,distant,intense,bass,low,rich,colorful,colourful,thick,wide,broad,thick,intense,large,low,cryptic,cryptical,inscrutable,mysterious,mystifying,inexplicable,incomprehensible,abstruse,recondite,esoteric,artful,middle,trench,depression,ocean,deeply,late
 thin,lean
-Deepfreeze,freezer,fridge,inaction,inactivity,inactiveness,
+Deepfreeze,freezer,fridge,inaction,inactivity,inactiveness
 fried,cooked
 implanted,ingrained,planted,established,constituted
 implanted,ingrained,planted,established,constituted
@@ -19029,7 +19012,7 @@ desired,coveted,desirable,craved,wanted
 desirous,desirous,appetent,athirst,hungry,thirsty,avid,devouring,esurient,greedy,covetous,envious,jealous
 desist,abstain,refrain
 desk,table
-deskbound,inactive,
+deskbound,inactive
 deskbound,inactive
 deskman,sergeant
 desktop,top,upside,background,screen
@@ -19480,7 +19463,7 @@ dickens,devil,deuce,exclamation,exclaiming,Dickens,writer,author
 dickensian,Dickensian,writer,author
 dicker,bargain,negociate,negotiate
 dickey,dicky,impaired,dickie,dicky,backseat,dickie,dicky,shirtfront,insert,inset
-dickeybird,dickybird,bird,
+dickeybird,dickybird,bird
 dickey,dickie,dicky,backseat
 dickeybird,dickybird,bird
 dickhead,asshole,bastard,cocksucker,shit,motherfucker,prick,whoreson,SOB
@@ -19490,7 +19473,7 @@ dickinson,Dickinson,poet
 dicksonia,Dicksonia
 dicksoniaceae,Dicksoniaceae
 dicky,dickey,impaired,dickey,dickie,backseat,dickey,dickie,shirtfront,insert,inset
-dickeybird,dickybird,bird,
+dickeybird,dickybird,bird
 dickey,dickie,dicky,backseat
 dickybird,dickeybird,bird
 diclinous,diclinous
@@ -19531,8 +19514,8 @@ didder,shake
 diddle,victimize,swindle,rook,goldbrick,nobble,bunco,defraud,scam,mulct,gyp,con,cheat,chisel,toy,fiddle,play,manipulate
 diddley,jack,diddlysquat,diddlyshit,diddly,squat,shit
 diddly,jack,diddlysquat,diddlyshit,diddley,squat,shit
-jack,diddlysquat,diddlyshit,diddly,diddley,squat,shit,
-jack,diddlysquat,diddlyshit,diddly,diddley,squat,shit,
+jack,diddlysquat,diddlyshit,diddly,diddley,squat,shit
+jack,diddlysquat,diddlyshit,diddly,diddley,squat,shit
 diddlyshit,jack,diddlysquat,diddly,diddley,squat,shit
 diddlysquat,jack,diddlyshit,diddly,diddley,squat,shit
 didelphidae,Didelphidae
@@ -19542,7 +19525,7 @@ didion,Didion,writer,author
 dido,Dido,princess
 didrikson,Zaharias,Didrikson,athlete,jock
 die,dice,cube,cutter,cutlery,decease,perish,go,exit,expire,pass,turn,suffer,endure,snap,fail,go,break,change,feel,experience,ache,yearn,yen,pine,languish,play,pall,change,disappear,vanish
-diemaker,diesinker,craftsman,artisan,journeyman,artificer,
+diemaker,diesinker,craftsman,artisan,journeyman,artificer
 dieffenbachia,Dieffenbachia
 diegueno,Diegueno,Hokan,Hoka,Diegueno,Yuman
 diehard,traditionalist,conservative,conservativist
@@ -19670,8 +19653,8 @@ diligent,persevering,patient,diligent,assiduous,sedulous,hardworking,industrious
 dill,herb,herb
 dilleniaceae,Dilleniaceae
 dilleniidae,Dilleniidae,class
-dallier,dillydallier,mope,lounger,idler,loafer,layabout,bum,
-procrastinate,stall,shillyshally,dillydally,delay,
+dallier,dillydallier,mope,lounger,idler,loafer,layabout,bum
+procrastinate,stall,shillyshally,dillydally,delay
 dillydallier,dallier,mope,lounger,idler,loafer,layabout,bum
 dillydally,procrastinate,stall,shillyshally,delay
 diltiazem,Cardizem
@@ -19735,7 +19718,6 @@ dingle,dell,hollow,holler
 dingo,warrigal,warragal
 dingy,begrimed,grimy,grubby,grungy,raunchy,dirty,soiled,unclean,dirty,muddied,muddy,impure,dismal,drab,drear,dreary,gloomy,sorry,cheerless,uncheerful
 dining,eating,feeding
-room,
 dink,DINK,couple,mates,match,return
 dinka,Dinka,Nilotic
 dinkey,dinky,locomotive,engine
@@ -20630,7 +20612,7 @@ docking,moorage,arrival
 dockside,side
 dockyard,waterfront
 doctor,doc,physician,MD,Dr.,medico,Doctor,theologian,theologist,theologizer,theologiser,play,Dr.,scholar,student,sophisticate,adulterate,stretch,dilute,debase,treat,repair,mend,fix,bushel,restore,better,improve,amend,ameliorate,meliorate
-doctorfish,surgeonfish,
+doctorfish,surgeonfish
 doctoral,doctorial,scholar,student,degree
 doctorate,degree
 doctorfish,surgeonfish
@@ -20903,7 +20885,7 @@ dostoevsky,Dostoyevsky,Dostoevski,Dostoevsky,writer,author
 dostoyevskian,Dostoevskian,Dostoyevskian,writer,author
 dostoyevsky,Dostoyevsky,Dostoevski,Dostoevsky,writer,author
 dot,point,disk,disc,saucer,Transportation,DoT,dit,acid,dose,Elvis,pane,superman,Zen,LSD,stud,constellate,cover,extend,scatter,sprinkle,dust,disperse,discharge,write,mark
-company,company,
+company,company
 dotage,senility,years,age,eld,geezerhood
 dotard,oldster
 dote,senesce,age,mature,maturate,love
@@ -21255,7 +21237,7 @@ droopy,drooping,sagging,lax
 drop,driblet,bead,pearl,dip,fall,decrease,decrement,cliff,formation,fall,descent,gravitation,curtain,drape,drapery,mantle,pall,depository,deposit,repository,descent,move,displace,descend,fall,decline,wane,sink,remove,express,verbalize,verbalise,utter,discontinue,stop,cease,quit,unload,discharge,deliver,fell,cut,lose,spend,expend,pay,flatten,change,alter,modify,dangle,swing,hang,dismiss,fire,can,dismiss,sack,terminate,dribble,drip,pour,shed,cast,throw,remove,take,withdraw,neglect,pretermit,omit,miss,overlook,overleap,change,devolve,deteriorate,degenerate,worsen,decline,deliver,bear,birth,have
 kick,kick,dropkick,kick,dropkick,kick
 slump,slack,falloff,deterioration,declension,worsening,cliff,drop,formation,decrease,lessening,change,alteration,modification
-dropseed,grass,
+dropseed,grass
 dropforge,forge,hammer
 dropkick,kick,boot,kicking,kick,kick
 dropkicker,kicker
@@ -21321,7 +21303,7 @@ druse,Druze,Druse,disciple,adherent
 druthers,preference,option,alternative,choice
 druze,Druze,Druse,disciple,adherent
 dry,dry,adust,baked,parched,scorched,sunbaked,arid,waterless,desiccated,dried,sere,sear,shriveled,shrivelled,withered,rainless,thirsty,semiarid,ironic,ironical,wry,humorous,humourous,dry,dry,milkless,dry,brut,sec,unsweet,sour,sugarless,nonsweet,dry,tearless,juiceless,unstimulating,unexciting,solid,unproductive,plain,plain,thirsty,alcoholic,unemotional,teetotal,sober,prohibitionist,reformer,reformist,crusader,meliorist,change,alter,modify,change
-drydock,dock,
+drydock,dock
 tearless,dry
 ambush,ambuscade,trap,murder,slaying,execution
 mold,mildew
@@ -21635,9 +21617,9 @@ dyushambe,Dushanbe,Dusanbe,Dyushambe,Stalinabad,capital
 dziggetai,chigetai,onager
 e,tocopherol,E,antioxidant,einsteinium,Es,E,metal,east,E,2.718282...,E,letter
 e'er,always,ever
-email,,email,netmail,telecommunicate,
+email,email,netmail,telecommunicate
 erythromycin,Erythrocin,Ethril,Ilosone,Pediamycin,antibiotic
-e.s.p.,clairvoyance,E.S.P.,ESP,parapsychology,
+e.s.p.,clairvoyance,E.S.P.,ESP,parapsychology
 ea,Ea
 each,all,apiece
 eacles,Eacles
@@ -21689,7 +21671,7 @@ earth,Earth,world,globe,ground,material,stuff,land,ground,object,Earth,location,
 truffle,earthnut,fungus,earthball,puffball,fungus
 outhouse,privy,jakes,outbuilding
 deity,divinity,god,immortal
-earthtongue,fungus,
+earthtongue,fungus
 earthball,puffball,fungus
 earthborn,mortal,human,earthly
 earthbound,earthly,pedestrian,prosaic,prosy,uninteresting
@@ -22324,7 +22306,7 @@ elixophyllin,aminophylline,theophylline,Elixophyllin,Theobid,bronchodilator
 elizabeth,Elizabeth,Elizabeth
 elizabethan,Elizabethan,age,Elizabethan,person,individual,someone,somebody,mortal,human,soul
 elk,moose,deer,cervid
-elkwood,magnolia,
+elkwood,magnolia
 elkhound,hound
 elkwood,magnolia
 ell,annex,annexe,extension,wing
@@ -22595,7 +22577,6 @@ emulsify,change,alter,modify,turn
 emulsion,colloid,coating,coat
 emydidae,Emydidae
 en,nut
-Enlil,
 enable,change,alter,modify
 enabling,enabling,facultative,sanctionative,sanctioning
 enact,ordain,decree,reenact,act,play,represent
@@ -22702,7 +22683,6 @@ encyclopedist,encyclopaedist,compiler,writer,author
 encysted,pathology
 end,extremity,ending,point,last,ending,conclusion,finish,goal,content,part,section,division,destruction,death,state,surface,lineman,place,spot,boundary,bound,bounds,contribution,part,share,conclusion,close,closing,ending,section,subdivision,remainder,remnant,oddment,lineman,stop,finish,terminate,cease,terminate,change,alter,modify,terminate,be,destroy,destruct
 goal,end
-endplate,
 rhymed,rhyming,riming
 lengthwise,lengthways,throughout
 endaemonism,eudemonism,ethics
@@ -23417,7 +23397,7 @@ eremite,religious
 eremitic,eremitic,eremitical,religious,anchoritic,eremitical,hermitic,hermitical,unworldly,eremitical,lone,solitary,unsocial
 eremitical,eremitic,religious,anchoritic,eremitic,hermitic,hermitical,unworldly,eremitic,lone,solitary,unsocial
 eremitism,monasticism
-Ereshkigal,Ereshkigel,
+Ereshkigal,Ereshkigel
 ereshkigal,Ereshkigal,Ereshkigel
 ereshkigel,Ereshkigal,Ereshkigel
 erethism,abnormality,abnormalcy
@@ -24569,7 +24549,7 @@ eyck,Eyck
 eye,oculus,optic,receptor,sagacity,sagaciousness,judgment,judgement,discernment,attention,attending,center,centre,middle,heart,area,country,hole,eyeball,look
 glance,glimpse
 conspicuous,obvious
-eyedrop,drop,driblet,
+eyedrop,drop,driblet
 eyewash,collyrium,lotion,application
 dazzling,fulgurant,fulgurous,impressive
 eyeball,orb,capsule,eye,look
@@ -24775,7 +24755,6 @@ falconry,art,artistry,prowess
 falderal,folderol,frills,gimcrackery,gimcracks,nonsense,trumpery,decoration,ornament,ornamentation
 falkner,Faulkner,Falkner,novelist
 fall,autumn,season,spill,tumble,slip,trip,Fall,event,descent,declivity,decline,declination,declension,downslope,slope,incline,side,sin,sinning,downfall,weakening,travel,capitulation,surrender,loss,twilight,dusk,gloaming,nightfall,evenfall,crepuscule,crepuscle,hour,pin,victory,triumph,drop,descent,gravitation,drop,dip,decrease,decrement,travel,go,move,locomote,descend,travel,go,move,locomote,turn,founder,flop,lag,dawdle,break,separate,crumble,slip,lose,recede,come,be,precipitate,fail,miscarry,decrease,diminish,lessen,die,decease,perish,go,exit,expire,pass,shine,strike,happen,hap,occur,pass,yield,happen,hap,occur,pass,sin,transgress,trespass,quit,resign,travel,go,move,locomote,be,accrue,light,return,pass,devolve,return,pass,devolve,slope,incline,pitch,hang,flow,change,change,issue,emerge,egress,begin,get,start,commence,disappear,vanish,descend,settle,come
-protection,
 falla,Falla,composer,pianist
 fallacious,unsound,invalid,deceitful,fraudulent,dishonest,dishonorable,incorrect
 fallaciousness,invalidity,invalidness
@@ -24894,7 +24873,7 @@ farina,meal
 farinaceous,starchlike,amylaceous,amyloid,amyloidal,starchy,grainy,granular,granulose,gritty,mealy,sandy,coarse
 farkleberry,sparkleberry,blueberry
 farm,workplace,work,work,collect,grow,raise,produce,cultivate
-farmplace,farmstead,farm,
+farmplace,farmstead,farm
 farmer,husbandman,granger,sodbuster,creator,Farmer,Farmer,cook
 farmerette,farmhand,fieldhand
 farmhand,fieldhand,hand
@@ -25086,7 +25065,7 @@ feast,banquet,dinner,thing,banquet,spread,meal,repast,fete,fiesta,party,banquet,
 feasting,banqueting,eating,feeding
 feat,deed,effort,exploit,accomplishment,achievement
 feather,plume,plumage,feathering,rotation,join,conjoin,cover,square,paddle,square,row,fledge,grow,develop,produce,get,acquire
-featherfoil,hydrophyte,
+featherfoil,hydrophyte
 featherbed,mattress,pamper,cosset,cocker,baby,coddle,mollycoddle,spoil,indulge,treat,handle,hire,engage,employ
 featherbedding,practice,pattern
 featherbrained,airheaded,dizzy,giddy,lightheaded,silly,frivolous
@@ -25373,13 +25352,13 @@ fib,story,tale,tarradiddle,taradiddle,lie,prevarication,lie
 fibber,storyteller,fabricator,liar,prevaricator
 fibbing,paltering,lying,prevarication,fabrication
 fiber,fibre,material,stuff,character,fibre,trait,fibre,fabric,cloth,material,textile
-fiberoptic,fibreoptic,transmission,
+fiberoptic,fibreoptic,transmission
 fiberboard,fibreboard,wallboard
 fiberglass,fibreglass
 fiberoptic,fibreoptic,transmission
 fiberoptics,fibreoptics,transmission
 fibre,fiber,material,stuff,character,fiber,trait,fiber,fabric,cloth,material,textile
-fiberoptic,fibreoptic,transmission,
+fiberoptic,fibreoptic,transmission
 fibreboard,fiberboard,wallboard
 fibreglass,fiberglass
 fibreoptic,fiberoptic,transmission
@@ -25593,11 +25572,11 @@ finespun,delicate,refined,hairsplitting,precise
 finesse,delicacy,diplomacy,discreetness,tact,tactfulness
 finest,best,fine,good,superior,fine,ok,o.k.,okay,satisfactory,fine,precise,fine,close,tight,dustlike,floury,nongranular,powdered,powdery,pulverized,pulverised,small,superfine,smooth,fine,well,fine,thin,fine,elegant,fine,f.,pure,fine,pleasant
 finger,digit,dactyl,extremity,fingerbreadth,digit,covering,thumb,touch,feel,search,seek,indicate,point,show
-fingerflower,fingerroot,foxglove,digitalis,
+fingerflower,fingerroot,foxglove,digitalis
 painting,picture,painting
-fingerpointing,imputation,
-fingerflower,fingerroot,foxglove,digitalis,
-fingerspell,communicate,intercommunicate,
+fingerpointing,imputation
+fingerflower,fingerroot,foxglove,digitalis
+fingerspell,communicate,intercommunicate
 fingerboard,fingerpost,signpost,guidepost,clavier,keyboard,strip
 fingerbreadth,finger,digit
 fingered,fingered,digitate,fingerlike
@@ -25643,14 +25622,13 @@ fiord,fjord,inlet,recess
 fipple,plug,stopper,stopple
 fir,wood,conifer
 fire,happening,occurrence,flame,flaming,combustion,burning,firing,attack,onslaught,onset,onrush,fireplace,hearth,attack,flak,flack,blast,criticism,ardor,ardour,fervor,fervour,fervency,fervidness,passion,passionateness,element,trial,tribulation,visitation,shoot,discharge,bake,can,dismiss,sack,terminate,remove,discharge,dispel,arouse,elicit,enkindle,kindle,evoke,raise,provoke,make,create,burn,destroy,ruin,fuel,supply,provide,render,furnish
-shrub,bush,belvedere,shrub,bush,
+shrub,bush,belvedere,shrub,bush
 fireman,firefighter,defender,guardian,protector,shielder,hothead,grouch,grump,crank,churl,crosspatch,performer
 arson,incendiarism,burning,combustion
 noncombustible,incombustible
 noncombustible,incombustible
 noncombustible,incombustible
 noncombustible,incombustible
-gaillardia,
 pyrolatry,worship
 firearm,piece,gun
 fireball,bolide,meteor,powerhouse,actor,doer,worker,ball,globe,orb,ball,globe,orb
@@ -25720,7 +25698,7 @@ fisc,treasury,exchequer
 fiscal,financial,business
 fischer,Fischer,chemist,Fischer,chemist,Fischer
 fish,food,Pisces,Fish,person,individual,someone,somebody,mortal,human,soul,Pisces,Fish,sign,mansion,house,angle,search,seek,catch,grab
-neuropteron,neuropteran,
+neuropteron,neuropteran
 ichthyolatry,zoolatry
 fishbone,bone,os
 fishbowl,situation,bowl,aquarium
@@ -25848,7 +25826,7 @@ flamboyance,floridness,showiness,ornateness,elaborateness
 flamboyant,aureate,florid,showy,fancy,resplendent,unrestrained,colorful
 flamboyantly,showily,flashily
 flame,fire,flaming,combustion,burning,flare,shine,beam,burn,combust,chastise,castigate,objurgate,chasten,correct
-kniphofia,tritoma,flameflower,herb,flameflower,wildflower,,
+kniphofia,tritoma,flameflower,herb,flameflower,wildflower
 flameproof,noncombustible,incombustible
 flamefish,cardinalfish
 flameflower,kniphofia,tritoma,herb,wildflower
@@ -25866,7 +25844,7 @@ flange,rim,projection
 flank,wing,formation,subfigure,lie
 flanker,back,soldier
 flannel,fabric,cloth,material,textile,washcloth,washrag,gabardine,tweed,white,trousers,pants
-pancake,battercake,flapcake,flapjack,griddlecake,hotcake,cake,
+pancake,battercake,flapcake,flapjack,griddlecake,hotcake,cake
 flannelbush,shrub,bush
 flannelette,fabric,cloth,material,textile
 flap,covering,dither,pother,fuss,tizzy,agitation,flapping,flutter,fluttering,wave,undulation,flaps,airfoil,aerofoil,surface,roll,undulate,wave,move,beat,pound,thump,beat,move,displace,beat,move,dither,pother,fuss,niggle,fret,pronounce,articulate,enounce,enunciate,say
@@ -26212,7 +26190,7 @@ fluxion,flux,flow,flowing
 fluxmeter,meter
 fly,alert,dipteran,dipteron,rainfly,flap,opening,hit,hitting,striking,wing,travel,go,move,locomote,move,aviate,pilot,operate,control,transport,carry,travel,go,move,locomote,change,fell,vanish,elapse,lapse,pass,travel,show,flee,run,scarper,lam,bunk,escape,travel,journey,hit,vanish,vaporize,decrease,diminish,lessen,fall
 shady,untrustworthy,untrusty,impermanent,temporary,debtor
-flyfish,angle,
+flyfish,angle
 flyaway,flighty,frivolous,loose
 flyblown,maggoty,stale,squalid,sordid,dirty,soiled,unclean,besmirched,damaged,spotted,stained,sullied,tainted,tarnished,blemished
 flybridge,bridge
@@ -26320,7 +26298,7 @@ folliculitis,inflammation,redness,rubor
 follies,revue,review,folly,foolishness,unwiseness,trait,stupidity,betise,folly,foolishness,imbecility,mistake,error,fault,folly,foolishness,craziness,stupidity,folly,foolery,tomfoolery,craziness,lunacy,indulgence,play,frolic,romp,gambol,caper
 follow,travel,go,move,locomote,postdate,result,ensue,travel,go,move,locomote,comply,obey,result,ensue,imitate,copy,simulate,be,adopt,espouse,choose,take,select,imitate,copy,simulate,trace,analyze,analyse,study,examine,canvass,canvas,watch,observe,check,succeed,accompany,play,come,originate,arise,rise,develop,uprise,grow,act,behave,do,practice,apply,use,be,surveil,survey,pursue,travel,go,move,locomote,understand,persevere,persist
 completion,culmination,closing,windup,completion,culmination,closing,windup
-followup,work,followup,activity,followup,reexamination,review,examination,scrutiny,
+followup,work,followup,activity,followup,reexamination,review,examination,scrutiny
 follower,person,individual,someone,somebody,mortal,human,soul,traveler,traveller
 followers,following,multitude,masses,mass,people,follower,person,individual,someone,somebody,mortal,human,soul,follower,traveler,traveller
 following,following,pursuing,shadowing,tailing,stalking,favorable,favourable,next,succeeding,undermentioned,succeeding,followers,multitude,masses,mass,people,pursuit,chase,motion,movement,move
@@ -26766,7 +26744,6 @@ fovea,area,region
 fowl,poultry,gallinacean,bird,meat,hunt,run,hunt,run
 fowler,Fowler,lexicographer,lexicologist,hunter,huntsman
 fox,canine,canid,dodger,slyboots,deceiver,cheat,cheater,trickster,beguiler,slicker,fur,pelt,Fox,statesman,solon,Fox,religionist,Fox,Algonquian,Algonquin,Fox,Algonquian,Algonquin,trick,fob,deceive,delude,cozen,confuse,throw,befuddle,fuddle,bedevil,confound,discombobulate,be,spot
-foxtrot,
 foxberry,cowberry,lingonberry,lingenberry,lingberry,cranberry
 foxglove,digitalis,herb
 foxhole,bunker,dugout
@@ -27081,7 +27058,7 @@ frolicsomeness,friskiness,sportiveness,playfulness,fun
 frond,leaf,leafage,foliage
 front,front,advance,advanced,foremost,frontmost,forward,frontal,anterior,first,fore,fore,anterior,presence,proximity,forepart,side,face,side,sphere,domain,area,orbit,field,arena,battlefront,line,movement,figurehead,strawman,deceiver,cheat,cheater,trickster,beguiler,slicker,appearance,position,place,look,face,lie,breast,confront,face
 favorite,favourite,rival,challenger,competitor,competition,contender
-chanfron,chamfron,testiere,frontstall,
+chanfron,chamfron,testiere,frontstall
 frontage,extent,direction,facade,frontal,front
 frontal,anterior,front,anterior,frontlet,adornment,curtain,drape,drapery,mantle,pall,facade,frontage,front
 frontbencher,legislator
@@ -27096,7 +27073,7 @@ frontward,forward,forwards,frontwards,forrad,forrard
 frontwards,forward,forwards,frontward,forrad,forrard
 frore,cold
 frost,hoar,hoarfrost,rime,ice,freeze,icing,freeze,freezing,Frost,poet,ice,cover,cover,cover,damage
-frostweed,frostwort,helianthemum,sunrose,frostweed,crownbeard,
+frostweed,frostwort,helianthemum,sunrose,frostweed,crownbeard
 frostbite,cryopathy,injury,hurt,harm,trauma
 frostbitten,frozen
 frosted,opaque
@@ -27282,7 +27259,7 @@ functionality,practicality
 functionary,official
 functioning,functioning,running,operative,functional,working,up,operation,performance,process
 fund,money,store,stock,accumulation,finance,collect,accumulate,amass,compile,hoard,supply,provide,render,furnish,invest,put,commit,place,collect,accumulate,amass,compile,hoard,support
-fundraise,raise,,
+fundraise,raise
 fundament,basis,base,foundation,groundwork,cornerstone,assumption,supposition,supposal,buttocks,nates,arse,butt,backside,bum,buns,can,hindquarters,keister,posterior,prat,rear,rump,stern,seat,tail,tooshie,tush,bottom,behind,derriere,fanny,ass,foundation,base,foot,groundwork,substructure,understructure,support
 fundamental,cardinal,central,key,primal,important,rudimentary,underlying,basic,profound,significant,important,harmonic
 fundamentalism,Protestantism
@@ -27520,7 +27497,7 @@ galileo,Galileo,astronomer,uranologist,stargazer
 galingale,galangal,sedge
 galium,Galium
 gall,sore,resentment,bitterness,rancor,rancour,hostility,enmity,bile,crust,impertinence,impudence,insolence,cheekiness,freshness,discourtesy,rudeness,chafe,fret,irritate,irk,anger
-inkberry,gallberry,holly,
+inkberry,gallberry,holly
 gallamine,Flaxedil
 gallant,brave,courageous,fearless,dashing,spirited,lofty,majestic,proud,impressive,chivalrous,knightly,courteous,dandy,dude,fop,sheik,beau,swell,clotheshorse,man,squire,attendant,attender,tender
 gallantly,chivalrously
@@ -27554,7 +27531,7 @@ galloping,pace
 gallous,gallows,gibbet
 galloway,Galloway,district,territory,dominion,Galloway,beef
 gallows,gibbet,gallous
-gallows,gibbet,gallous,
+gallows,gibbet,gallous
 gallstone,bilestone,calculus,concretion
 gallup,Gallup,town
 gallus,brace,suspender,clothing,vesture,wear,Gallus
@@ -27698,7 +27675,7 @@ garland,Garland,singer,vocalist,vocalizer,vocaliser,actress,Garland,city,metropo
 garlic,ail,flavorer,flavourer,flavoring,flavouring,seasoner,seasoning
 garlicky,flavorer,flavourer,flavoring,flavouring,seasoner,seasoning
 garment,clothing,vesture,wear,dress,clothe,enclothe,garb,raiment,tog,habilitate,apparel,turn
-garmentmaker,needleworker,
+garmentmaker,needleworker
 garmented,appareled,attired,dressed,garbed,habilimented,robed,clothed,clad
 garmentless,clothesless,raimentless,unclothed
 garmentmaker,needleworker
@@ -27855,7 +27832,7 @@ gawkiness,ungainliness,awkwardness,clumsiness
 gawky,clumsy,clunky,ungainly,unwieldy,awkward
 gawp,goggle,gape,gawk,look
 gay,cheery,sunny,cheerful,jocund,jolly,jovial,merry,mirthful,joyous,indulgent,brave,braw,colorful,gala,festal,festive,merry,joyous,queer,homophile,homosexual,homosexual,homo,person,individual,someone,somebody,mortal,human,soul
-gayfeather,snakeroot,wildflower,
+gayfeather,snakeroot,wildflower
 chemist,physicist
 gayal,mithan
 gayfeather,snakeroot,wildflower
@@ -28164,7 +28141,7 @@ gesticulation,gesture,motion
 gestural,sign,signed,communicative,communicatory,nonverbal,communicative,communicatory
 gesture,motion,movement,move,motility,motion,indication,indicant,gesticulate,motion,communicate,intercommunicate
 get,acquire,become,go,turn,let,have,make,receive,find,obtain,incur,change,arrive,come,bring,convey,fetch,transmit,transfer,transport,channel,channelize,channelise,experience,receive,have,undergo,fix,have,make,score,hit,tally,induce,stimulate,cause,have,make,catch,capture,seize,prehend,clutch,grow,develop,produce,acquire,change,contract,take,sicken,communicate,intercommunicate,make,change,alter,modify,drive,aim,mean,intend,catch,understand,catch,arrest,attract,pull,draw,catch,hit,acquire,buy,purchase,catch,hear,catch,hurt,ache,suffer,receive,scram,leave,catch,annoy,rag,bother,irritate,rile,nark,nettle,gravel,vex,chafe,devil,touch,stir,catch,reproduce,draw,effect,effectuate,destroy,ruin,perplex,vex,stick,puzzle,mystify,baffle,beat,pose,bewilder,flummox,stupefy,nonplus,gravel,amaze,dumbfound,confuse,throw,fox,befuddle,fuddle,bedevil,confound,discombobulate,begin,start,commence,suffer,sustain,have,experience,receive,have,undergo,beget,engender,father,mother,sire,generate,make,create
-getatable,accessible,
+getatable,accessible
 beginning,commencement,first,outset,start,kickoff,showtime,offset,point
 energy,push,drive
 geta,clog,patten,sabot,footwear,footgear
@@ -28735,9 +28712,9 @@ golan,Golan
 golconda,Golconda,source
 gold,golden,gilded,metallic,aureate,gilded,gilt,golden,chromatic,amber,yellow,yellowness,Au,wealth,riches,invaluableness,preciousness,pricelessness,valuableness
 auriferous,metallic
-goldbeater,craftsman,artisan,journeyman,artificer,
-goldplate,plate,,
-goldsmith,goldworker,jeweler,jeweller,
+goldbeater,craftsman,artisan,journeyman,artificer
+goldplate,plate
+goldsmith,goldworker,jeweler,jeweller
 goldbeater,craftsman,artisan,journeyman,artificer
 goldberg,Goldberg,cartoonist
 goldbrick,soldier,slacker,shirker,idler,loafer,layabout,bum,block,cube,fraud,fraudulence,dupery,hoax,humbug,victimize,swindle,rook,nobble,diddle,bunco,defraud,scam,mulct,gyp,con,cheat,chisel,fiddle,shirk,avoid
@@ -28817,8 +28794,8 @@ gonorrhoea,gonorrhea,clap,VD
 goo,sludge,slime,gook,guck,gunk,muck,ooze,substance,matter
 goober,peanut,earthnut,groundnut
 good,good,bully,corking,cracking,dandy,great,groovy,keen,neat,nifty,peachy,swell,smashing,goodish,redeeming,satisfactory,acceptable,solid,suitable,superb,hot,best,better,favorable,favourable,obedient,respectable,full,ample,good,angelic,angelical,beatific,saintlike,saintly,sainted,beneficent,benevolent,gracious,white,worthy,redemptive,redeeming,saving,moral,right,righteous,virtuous,worthy,estimable,honorable,respectable,reputable,beneficial,advantageous,fine,superior,nice,just,upright,virtuous,righteous,adept,expert,practiced,proficient,skillful,skilful,skilled,complete,dear,near,close,benevolent,kind,kindly,openhearted,beneficent,charitable,kind,dependable,safe,secure,sound,right,ripe,opportune,well,fortunate,effective,operative,well,pleasing,serious,intellectual,sound,healthy,beneficial,salutary,healthful,genuine,echt,unspoiled,unspoilt,fresh,discriminating,advantage,vantage,goodness,morality,goodness,quality,well,thoroughly,soundly
-adieu,adios,arrivederci,bye,cheerio,goodby,goodbye,sayonara,farewell,
-adieu,adios,arrivederci,bye,cheerio,goodby,goodbye,sayonara,farewell,
+adieu,adios,arrivederci,bye,cheerio,goodby,goodbye,sayonara,farewell
+adieu,adios,arrivederci,bye,cheerio,goodby,goodbye,sayonara,farewell
 meritless,sorry,worthless,goldbrick,idler,loafer,layabout,bum
 meritless,sorry,worthless,goldbrick,idler,loafer,layabout,bum
 kind,kindly,openhearted,benevolent,good
@@ -28849,7 +28826,7 @@ goodyera,Goodyera
 gooey,icky,adhesive
 goof,fathead,goofball,bozo,jackass,goose,cuckoo,twat,zany,fool,sap,saphead,muggins,tomfool,sin,blunder,boob,transgress,offend,infract,violate,breach,break
 goldbrick,idler,loafer,layabout,bum
-goofproof,foolproof,proof,
+goofproof,foolproof,proof
 goofball,fathead,goof,bozo,jackass,goose,cuckoo,twat,zany,fool,sap,saphead,muggins,tomfool
 goofproof,foolproof,proof
 goofy,cockamamie,cockamamy,sappy,silly,wacky,whacky,zany,unreasonable,foolish,Goofy,character
@@ -29415,7 +29392,7 @@ grouchily,crossly,grumpily
 groucho,Marx,Groucho,comedian,comic
 grouchy,crabbed,crabby,cross,fussy,grumpy
 ground,crushed,broken,land,earth,object,reason,earth,material,stuff,footing,basis,foundation,position,background,view,aspect,prospect,scene,vista,panorama,land,soil,object,percept,perception,earth,connection,connexion,connector,connecter,connective,surface,primer,priming,undercoat,anchor,fasten,fix,secure,restrain,confine,hold,put,set,place,pose,position,lay,teach,learn,instruct,land,reach,make,attain,hit,gain,throw,hit,hit,prime,undercoat,paint,connect,link,tie,establish,base,found,crunch,cranch,craunch,grind,press,grate,grind,fragment,fragmentize,fragmentise,grind,mash,crunch,bray,comminute,fragment,fragmentize,fragmentise,labor,labour,toil,fag,travail,grind,drudge,dig,moil,work,grind,dance
-groundberry,shrub,bush,teaberry,wintergreen,checkerberry,groundberry,shrublet,
+groundberry,shrub,bush,teaberry,wintergreen,checkerberry,groundberry,shrublet
 downstairs,downstair
 seismosaur,dinosaur
 groundball,grounder,hopper,hit,hitting,striking
@@ -29443,7 +29420,7 @@ grouping,group,activity,pigeonholing
 groupthink,deciding
 groupware,software,package
 grouse,wildfowl,fowl,gripe,crab,beef,squawk,bellyache,holler,complain,kick,plain,quetch,kvetch
-grouseberry,blueberry,
+grouseberry,blueberry
 grouseberry,blueberry
 grout,plaster,fasten,fix,secure
 grove,forest,wood,woods,woodlet,orchard,plantation,garden
@@ -29650,7 +29627,7 @@ gumshoe,dick,hawkshaw,detective,investigator,tec,arctic,galosh,golosh,rubber,ove
 gumweed,tarweed,rosinweed,herb
 gumwood,gum,wood
 gun,weapon,arm,artillery,ordnance,armament,gunman,shot,shooter,gunman,gunslinger,triggerman,hitman,torpedo,shooter,murderer,liquidator,manslayer,pump,accelerator,gas,throttle,pedal,treadle,discharge,firing,shoot
-gunsight,sight,
+gunsight,sight
 gunboat,boat
 guncotton,nitrocellulose,nitrocotton,nitrate
 gunfight,gunplay,shootout,fight,fighting,combat,scrap
@@ -29795,7 +29772,7 @@ gyrostabilizer,gyrostabiliser,stabilizer,stabiliser
 gyrus,convolution,structure
 gywn,Gwynn,Gywn,Gynne,comedienne
 h,hydrogen,H,element,gas,henry,H,H,letter,enthalpy,H
-h.p.,horsepower,HP,H.P.,
+h.p.,horsepower,HP,H.P.
 h2o,water,H2O,liquid
 ha,HA
 ha'p'orth,halfpennyworth,worth
@@ -29830,7 +29807,7 @@ hachiman,Hachiman
 hachure,hatch,hatching,crosshatch,shading
 hacienda,estate,land,acres,demesne,house
 hack,drudge,hacker,politician,politico,pol,writer,author,tool,cab,taxi,taxicab,car,auto,automobile,machine,motorcar,jade,nag,plug,horse,horse,mount,chop,cut,cut,cope,contend,grapple,deal,manage,cut,foul,foul,program,programme,edit,redact,whoop,cough
-taxidriver,taximan,cabdriver,cabman,cabby,driver,
+taxidriver,taximan,cabdriver,cabman,cabby,driver
 hackamore,halter,headgear
 hackberry,tree,sugarberry,berry
 hackbut,arquebus,harquebus,hagbut
@@ -29937,7 +29914,7 @@ haft,helve,handle,grip,handgrip,hold
 haftarah,Haftorah,Haftarah,Haphtorah,Haphtarah,excerpt,extract,selection
 haftorah,Haftorah,Haftarah,Haphtorah,Haphtarah,excerpt,extract,selection
 hag,beldam,beldame,witch,crone,hagfish,agnathan
-hagridden,tormented,troubled,
+hagridden,tormented,troubled
 hagada,Haggadah,Haggada,Hagada
 haganah,Haganah,force
 hagberry,fruit
@@ -30042,7 +30019,6 @@ confusion,confusedness,disarray
 crazed,deranged,insane
 intensity,strength
 short,abridged,portrait,portrayal
-period,
 position,place
 lunula,lunule,area,region
 wage,pay,earnings,remuneration,salary
@@ -30167,14 +30143,13 @@ hamsun,Hamsun,writer,author
 han,Han,dynasty
 hancock,Hancock
 hand,manus,mitt,paw,extremity,laborer,labourer,jack,handwriting,script,writing,ability,power,side,deal,collection,aggregation,accumulation,assemblage,side,pointer,handbreadth,handsbreadth,sailor,crewman,applause,clapping,forepaw,aid,assist,assistance,help,pass,reach,give,transfer,lead,take,direct,conduct,guide
-handbuild,coil,shape,form,work,mold,mould,forge,
+handbuild,coil,shape,form,work,mold,mould,forge
 handmade,handwoven,handsewn,handstitched,overhand,oversewn
-handheld,
 hewn,cut
 handwoven,handmade
 old,garment
 meager,meagre,meagerly
-handwash,wash,launder,
+handwash,wash,launder
 handbag,bag,pocketbook,purse,container
 handball,ball
 handbarrow,framework,frame,framing
@@ -30308,7 +30283,7 @@ carefree,freewheeling,slaphappy,irresponsible
 hapsburg,Habsburg,Hapsburg,dynasty,royalty
 haptic,tactile,tactual,somatosense,exteroception,perception
 haptically,tactually
-harakiri,harikari,suicide,
+harakiri,harikari,suicide
 harakiri,harikari,suicide
 harangue,rant,ranting,declamation,address,speak
 haranguer,orator,speechmaker,rhetorician,speechifier
@@ -30326,13 +30301,12 @@ hard,difficult,ambitious,challenging,arduous,awkward,embarrassing,sticky,unenvia
 strict,invariable
 pugnacious,tough
 pugnacious,tough,hardened,hard,cooked
-hardcore,inflexible,hardcore,loyal,hardcore,explicit,expressed,
+hardcore,inflexible,hardcore,loyal,hardcore,explicit,expressed
 difficult,hard
 trenchant,effective,effectual,efficacious,aggressive
-hardline,uncompromising,inflexible,
+hardline,uncompromising,inflexible
 hardheaded,practical,pragmatic,realistic
 distressed,troubled
-demanding,
 hardback,hardbacked,hardbound,hardcover,backed,hardcover,book,volume
 hardbacked,hardback,hardbound,hardcover,backed
 hardbake,sweet,confection,confectionery
@@ -30707,7 +30681,7 @@ hearken,hark,harken,listen
 hearsay,indirect,rumor,rumour,gossip,comment,scuttlebutt
 hearst,Hearst,publisher
 heart,bosom,intuition,hunch,suspicion,pump,ticker,viscus,mettle,nerve,spunk,courage,courageousness,bravery,center,centre,middle,eye,area,country,kernel,substance,core,center,essence,gist,inwardness,marrow,meat,nub,pith,sum,content,spirit,disposition,temperament,organs,affection,affectionateness,fondness,tenderness,warmheartedness,feeling
-heartleaf,herb,heartleaf,
+heartleaf,herb,heartleaf
 cordate,cordiform,simple,unsubdivided
 candid,open,ingenuous,artless,talk,talking
 wholehearted,sincere
@@ -31087,7 +31061,6 @@ hempen,fibrous,tough
 hemstitch,hemstitching,stitch,embroidery,fancywork,sew,stitch
 hemstitching,hemstitch,stitch
 hen,biddy,chicken,bird,chicken,poulet,volaille,female
-fungus,
 nag,peck,complain,kick,plain,quetch,kvetch
 henbane,herb
 hence,therefore,thence,thus
@@ -31521,7 +31494,6 @@ hinny,equine,equid
 hint,intimation,breath,suggestion,proposition,proffer,clue,indication,indicant,touch,tinge,mite,pinch,jot,speck,soupcon,trace,suggestion,tip,lead,steer,wind,guidance,counsel,counseling,counselling,direction,suggest,convey,impart
 hinterland,backwoods,boondocks,country
 hip,hep,informed,pelvis,girdle,coxa,enarthrosis,rosehip,fruit
-hiplength,
 hipbone,bone,os
 hipflask,flask
 hiplength,line,line
@@ -31789,7 +31761,7 @@ homarus,Homarus
 hombre,guy,cat,bozo,man
 homburg,fedora,Stetson,trilby,hat,chapeau,lid
 home,home,location,interior,internal,national,domestic,place,residence,abode,dwelling,domicile,abode,habitation,housing,lodging,location,environment,institution,base,location,family,household,house,menage,unit,plate,base,bag,beginning,origin,root,rootage,source,house,domiciliate,return
-homebuilder,housebuilder,builder,constructor,
+homebuilder,housebuilder,builder,constructor
 homebody,adult,grownup
 homebound,housebound,confined,people
 homeboy,member,acquaintance,friend
@@ -31919,7 +31891,7 @@ honestly,candidly,frankly,aboveboard
 honestness,honesty,righteousness
 honesty,honestness,righteousness,satinpod,herb
 honey,chromatic,sweetening,sweetener,beloved,dear,dearest,love,lover,sweeten,dulcify,edulcorate,dulcorate
-honeyflower,shrub,bush,honeyflower,protea,
+honeyflower,shrub,bush,honeyflower,protea
 honeybee,bee
 honeybells,shrub,bush
 honeycomb,framework,frame,framing,fret,penetrate,perforate,change,alter,vary
@@ -31973,7 +31945,7 @@ hoodooism,voodoo,vodoun,voodooism,cult,cultus
 hoodwink,juggle,beguile,cheat,chisel,bamboozle,snow,deceive,betray
 hooey,stuff,poppycock,nonsense,bunk,nonsensicality,meaninglessness,hokum
 hoof,foot,unguis,foot,walk,dance
-hoofprint,mark,print,
+hoofprint,mark,print
 hoofed,ungulate,ungulated,hooved
 hoofer,stepper,dancer
 hoofing,dancing,dance,terpsichore,saltation
@@ -32078,11 +32050,10 @@ horror,fear,fearfulness,fright,thing,repugnance,repulsion,revulsion,disgust
 horrified,afraid
 horrified,afraid
 horse,equine,equid,exerciser,cavalry,soldiery,troops,sawhorse,sawbuck,buck,framework,frame,framing,knight,chessman,provide,supply,ply,cater
-bullbrier,greenbrier,catbrier,brier,briar,vine,
-cart,
+bullbrier,greenbrier,catbrier,brier,briar,vine
 equine,equid
-moonfish,horsefish,horsehead,dollarfish,carangid,
-pistol,handgun,
+moonfish,horsefish,horsehead,dollarfish,carangid
+pistol,handgun
 race,run
 horseback,hogback,ridge,ahorse,ahorseback
 horsebean,bean,shrub,bush
@@ -32152,7 +32123,7 @@ hostilely,belligerently
 hostility,unfriendliness,enmity,antagonism,state,enmity,hate,hatred,aggression,action,belligerency,combat
 hostler,stableman,stableboy,groom,ostler,hand
 hot,hot,baking,blistering,blistery,burning,calefacient,warming,calefactory,calefactive,heating,calorifacient,calorific,heated,het,hottish,sizzling,sultry,stifling,sulfurous,sulphurous,sweltering,sweltry,thermal,torrid,sultry,tropical,tropic,white,fervent,fervid,fiery,igneous,heatable,overheated,scorching,warm,raging,violent,hot,fiery,flaming,heated,sizzling,sensual,sultry,torrid,passionate,warm,sexy,illegal,blistering,fast,wanted,skilled,gingery,peppery,spicy,pungent,popular,unpleasant,new,lucky,good,fresh,fast,eager,warm,near,close,radioactive,live,charged,active
-car,auto,automobile,machine,motorcar,
+car,auto,automobile,machine,motorcar
 choleric,irascible,hotheaded,short
 hotbed,situation,bed
 hotcake,pancake,battercake,flapcake,flapjack,griddlecake,cake
@@ -32193,7 +32164,7 @@ hourlong,long
 hours,period,hour,hr,hour,time,hour,period,hour,minute,distance
 housatonic,Housatonic,river
 house,dwelling,home,domicile,abode,habitation,building,edifice,legislature,building,edifice,family,household,home,menage,unit,theater,theatre,building,edifice,firm,business,concern,family,folk,kinfolk,kinsfolk,sept,phratry,community,audience,play,sign,mansion,region,part,management,accommodate,hold,admit,domiciliate,shelter
-homebuilder,housebuilder,builder,constructor,
+homebuilder,housebuilder,builder,constructor
 construction,building
 housebroken,trained
 houseboat,barge,flatboat,hoy,lighter
@@ -32960,9 +32931,9 @@ hytrin,terazosin,Hytrin,antihypertensive
 hz,Hertz,Hz,cycles/second,cps,cycle,rate
 i,one,1,ane,cardinal,iodine,iodin,I,element,halogen,one,1,I,ace,single,unity,digit,figure,I,letter
 i.d.,ID,I.D.,badge,Idaho,ID,id,instinct
-i.e.,ie,
-i.q.,IQ,I.Q.,ratio,
-i.w.w.,IWW,I.W.W.,union,brotherhood,labor,
+i.e.,ie
+i.q.,IQ,I.Q.,ratio
+i.w.w.,IWW,I.W.W.,union,brotherhood,labor
 ia,Iowa,IA
 iaa,IAA,auxin,IAA,FTO
 iaea,IAEA
@@ -32995,7 +32966,7 @@ icarus,Icarus
 icbm,ICBM
 icc,ICC
 ice,crystal,object,sparkler,diamond,frosting,icing,topping,frappe,methamphetamine,Methedrine,meth,deoxyephedrine,chalk,crank,glass,shabu,trash,amphetamine,upper,speed,ICE,rink,frost,cover,cool,chill
-wagon,waggon,
+wagon,waggon
 iceberg,berg,floater,lettuce
 iceboat,icebreaker,ship,scooter,vessel,watercraft
 icebound,frozen
@@ -33219,7 +33190,7 @@ deformed,distorted,malformed,misshapen,unshapely
 incompatible,mismated,unsuited,mismatched
 doomed,unlucky,unfortunate
 crabbed,crabby,cross,fussy,grouchy,grumpy
-unseasonable,untimely,wrong,inopportune,
+unseasonable,untimely,wrong,inopportune
 mistreat,maltreat,abuse,step,treat,handle
 abused,maltreated,mistreated,assaulted,molested,raped,battered,beaten,misunderstood,cuffed,slapped
 maltreatment,abuse,mistreatment
@@ -33692,7 +33663,6 @@ fight,fighting,combat,scrap,boxing,pugilism,fisticuffs
 joke,gag,laugh,jest,jape
 relative,relation
 immigration,migration
-personal,
 unmoved,unaltered,unchanged
 inability,cognition,knowledge,noesis,unfitness,quality
 inaccessibility,unavailability,inconvenience
@@ -35400,7 +35370,6 @@ irksome,boring,deadening,dull,slow,tedious,tiresome,wearisome,uninteresting
 iron,robust,Fe,metal,club,irons,chain,chains,shackle,bond,hamper,trammel,trammels,implement,press
 achromatic,gray,grayness,grey,greyness
 achromatic,gray,grayness,grey,greyness
-ironwood,
 ironclad,brassbound,inflexible,unassailable,unshakable,watertight,bulletproof,incontestable,incontestible
 ironed,ironed,pressed,smoothed,smoothened,smooth
 ironic,dry,ironical,wry,humorous,humourous,ironical,incongruous
@@ -35900,7 +35869,7 @@ jejunity,jejuneness,tameness,vapidity,vapidness,dullness,dulness,jejuneness,unwh
 jejunoileitis,inflammation,redness,rubor
 jejunostomy,operation,surgery
 jell,set,congeal,solidify
-jello,hydrocolloid,
+jello,hydrocolloid
 jellaba,cloak
 jelled,congealed,jellied,solid
 jellied,congealed,jelled,solid
@@ -35966,7 +35935,6 @@ jettison,discard,fling,toss,dispose,throw
 jetty,breakwater,groin,groyne,mole,bulwark,seawall,barrier
 jevons,Jevons,economist,logician,logistician
 jew,Jew,Hebrew,Israelite,person,individual,someone,somebody,mortal,human,soul
-Jewbush,,
 jewbush,Jewbush
 jewel,gem,jewelry,jewellery,gem,person,individual,someone,somebody,mortal,human,soul,bejewel,decorate,adorn,grace,ornament,embellish,beautify
 jeweled,beaded,beady,bejeweled,bejewelled,bespangled,gemmed,jewelled,sequined,spangled,spangly,adorned,decorated
@@ -36243,7 +36211,7 @@ jumbled,disorderly,untidy
 jumbo,elephantine,gargantuan,giant,large
 jumbojet,jet
 jump,leap,increase,leap,saltation,transition,transition,startle,start,reflex,parachuting,descent,jumping,propulsion,actuation,leap,bound,spring,move,startle,start,move,assail,assault,attack,wax,mount,climb,rise,look,appear,seem,enter,participate,rise,change,derail,travel,go,move,locomote,parachute,dive,plunge,plunk,leap,jumpstart,start,skip,neglect,pretermit,omit,drop,miss,overlook,overleap,leap,switch,shift,change,alternate,change,alter,vary
-jumpstart,jump,start,jumpstart,begin,start,commence,
+jumpstart,jump,start,jumpstart,begin,start,commence
 jumper,athlete,jock,bounder,leaper,athlete,jock,connection,connexion,connector,connecter,connective,jacket,pinafore,pinny,dress,frock
 jumpers,coverall,jumper,athlete,jock,bounder,leaper,jumper,athlete,jock,jumper,connection,connexion,connector,connecter,connective,jumper,jacket,jumper,pinafore,pinny,dress,frock,jumper
 jumpiness,jitteriness,nervousness,restiveness,anxiety
@@ -37223,7 +37191,7 @@ l,fifty,50,cardinal,liter,litre,fifty,50,L,lambert,L,L,letter
 l'aquila,Aquila,L'Aquila,city,metropolis
 l'enfant,L'Enfant,architect,designer
 levodopa,Bendopa,Brocadopa,Larodopa,dopa,dihydroxyphenylalanine
-LP,record,disk,disc,platter,
+LP,record,disk,disc,platter
 la,lanthanum,La,metal,Louisiana,LA,lah
 grandiose,hifalutin,highfalutin,highfaluting,pretentious
 laager,lager,camp,encampment,cantonment,bivouac
@@ -37439,7 +37407,7 @@ lamaze,Lamaze
 lamb,Lamb,Elia,essayist,litterateur,victim,dupe,dear,innocent,meat,deliver,bear,birth,have
 pigweed,greens,green
 pigweed,goosefoot,pigweed,greens,green
-lambchop,chop,,
+lambchop,chop
 lambast,cane,flog,lambaste,beat,rebuke,rag,trounce,reproof,lecture,reprimand,jaw,scold,chide,berate,remonstrate,lambaste,knock,criticize,criticise
 lambaste,cane,flog,lambast,beat,rebuke,rag,trounce,reproof,lecture,reprimand,jaw,scold,chide,berate,remonstrate,lambast,knock,criticize,criticise
 lambchop,chop
@@ -37601,7 +37569,6 @@ lanset,lanseh,lansa,lansat
 lansing,Lansing
 lansoprazole,Prevacid,acid
 lantern,lamp
-planthopper,
 prognathous,prognathic,hypognathous
 lanternfish,malacopterygian
 lanthanide,lanthanoid,lanthanon,group,grouping
@@ -37896,8 +37863,7 @@ laxity,laxness,remissness,negligence,neglect,neglectfulness
 laxly,leniently
 laxness,laxity,remissness,negligence,neglect,neglectfulness
 lay,laic,secular,profane,nonprofessional,ballad,song,ballad,poem,put,set,place,pose,position,move,displace,repose,put,set,place,pose,position,organize,organise,prepare,devise,machinate,repose,levy,impose,lie,be,lie,dwell,consist,lie,belong,exist,be,lie,be,lie,misinform,mislead,lie,rest,be,lie
-layby,area,
-layup,
+layby,area
 layabout,idler,loafer,bum,nonworker
 layby,area
 layer,bed,sheet,region,part,level,stratum,place,hen,biddy,structure,form
@@ -37949,8 +37915,6 @@ leadplant,amorpha
 leadwort,shrub,bush
 leaf,leafage,foliage,folio,sheet,section,segment,flick,flip,thumb,riffle,riff,peruse,turn,grow,develop,produce,get,acquire
 codex,manuscript,holograph
-insect,
-tortricid,
 leafage,leaf,foliage
 leafed,leaved,leafy
 leafhopper,homopteran
@@ -38066,7 +38030,7 @@ left,left,near,nigh,port,larboard,leftmost,leftover,odd,remaining,unexpended,une
 left,left
 left,sinistral,sinistral,left,illegitimate,morganatic,legitimate,levorotary,levorotatory,counterclockwise,anticlockwise,contraclockwise,ambiguous,bumbling,bungling,butterfingered,handless,maladroit
 sinistrality,handedness,laterality
-lefthander,lefty,southpaw,pitcher,hurler,twirler,lefty,southpaw,person,individual,someone,somebody,mortal,human,soul,,
+lefthander,lefty,southpaw,pitcher,hurler,twirler,lefty,southpaw,person,individual,someone,somebody,mortal,human,soul
 leftist,left
 backhand,written
 leftist,left
@@ -38564,9 +38528,9 @@ crucial,important
 vitalizing,invigorating
 subshrub,suffrutex
 crucial,important
-lifesize,large,
 lifesize,large
-lifestyle,manner,mode,style,way,fashion,,
+lifesize,large
+lifestyle,manner,mode,style,way,fashion
 equipment,equipment
 vital,essential
 dangerous,grave,grievous,serious,severe,critical
@@ -38605,7 +38569,7 @@ light,pale,pastel,powdery,palish,white,achromatic
 light,lightsome,tripping
 green,greenish,chromatic
 blond,blonde,towheaded,fair,fairish,flaxen,sandy,nordic,redheaded
-faint,light,swooning,lightheaded,ill,sick,airheaded,dizzy,featherbrained,giddy,lightheaded,silly,frivolous,
+faint,light,swooning,lightheaded,ill,sick,airheaded,dizzy,featherbrained,giddy,lightheaded,silly,frivolous
 dizzily,giddily
 flippant,frivolous
 flippancy,levity
@@ -38848,7 +38812,7 @@ liopelma,Leiopelma,Liopelma
 liopelmidae,Leiopelmatidae,Liopelmidae
 liothyronine,triiodothyronine,T
 lip,articulator,sass,sassing,backtalk,mouth,impudence,cheek,impertinence,rejoinder,retort,return,riposte,replication,comeback,counter,brim,rim,edge
-lipread,read,
+lipread,read
 lipaemia,lipemia,lipidemia,lipidaemia,lipoidemia,lipoidaemia,hyperlipemia,hyperlipaemia,hyperlipidemia,hyperlipidaemia,hyperlipoidemia,hyperlipoidaemia,symptom
 liparidae,Liparididae,Liparidae
 liparididae,Liparididae,Liparidae
@@ -38992,7 +38956,7 @@ litoral,littoral,sands,seashore,coast,seacoast
 litotes,meiosis,understatement
 litre,liter,l
 litter,rubbish,trash,scrap,conveyance,transport,bedding,substance,matter,be,strew,straw,deliver,bear,birth,have
-litterbin,bin,
+litterbin,bin
 attendant,attender,tender
 litterateur,essayist,writer,author
 litterbin,bin
@@ -39042,7 +39006,7 @@ livid,ashen,blanched,bloodless,white,colorless,colourless,light,angry,injured
 lividity,fury,rage,madness,lividness,luridness,paleness,pallidness,pallor,wanness,achromasia,complexion
 lividness,lividity,luridness,paleness,pallidness,pallor,wanness,achromasia,complexion
 living,people,realistic,be,absolute,surviving,extant,extant,live,life,experience,people,animation,life,aliveness,being,beingness,existence,support,keep,livelihood,sustenance,resource
-parlor,parlour,room,
+parlor,parlour,room
 livingston,Livingston
 livingstone,Livingstone,missionary,explorer,adventurer
 livistona,Livistona
@@ -39081,7 +39045,7 @@ loam,soil,dirt
 loamless,loamless
 loamy,loamy
 loan,debt,loanword,word,lend,give
-loanblend,hybrid,word,
+loanblend,hybrid,word
 loanblend,hybrid,word
 loaner,lender,investor,car,auto,automobile,machine,motorcar
 loaning,lending,disposal,disposition
@@ -39198,7 +39162,6 @@ loft,floor,level,storey,story,attic,garret,floor,level,storey,story,shelter,stor
 loftiness,highness,height,tallness,stateliness,majesty,impressiveness,grandness,magnificence
 lofty,exalted,rarefied,rarified,idealistic,noble,eminent,soaring,towering,high,gallant,majestic,proud,impressive
 log,wood,backlog,firewood,logarithm,exponent,power,index,record,enter,lumber,fell,drop
-access,
 logagraphia,agraphia,anorthography,encephalopathy
 logan,Logan
 loganberry,berry
@@ -39283,14 +39246,14 @@ loner,individualist
 lonesome,lone,only,sole,solitary,single,lonely,dejected
 lonesomeness,aloneness,loneliness,solitude,disposition,temperament
 long,long,agelong,bimestrial,daylong,extended,lengthy,prolonged,protracted,durable,lasting,endless,eternal,interminable,hourlong,lifelong,longish,longitudinal,semipermanent,longstanding,monthlong,nightlong,overnight,perennial,weeklong,yearlong,long,elongate,elongated,elongated,extended,lengthened,prolonged,extendible,extendable,far,lank,longer,longest,oblong,polysyllabic,sesquipedalian,stretch,tall,long,long,stressed,unsound,tenacious,retentive,farseeing,farsighted,foresighted,foresightful,longsighted,provident,abundant,age,years,hanker,yearn,desire,want
-bellarmine,longbeard,graybeard,jug,
+bellarmine,longbeard,graybeard,jug
 long,call
 glum,gloomy,dejected,faced
 hairy,hirsute
 dolichocephalic,dolichocranial,dolichocranic
 durable,lasting,long
 leggy,tall
-stilt,stiltbird,longlegs,shorebird,
+stilt,stiltbird,longlegs,shorebird
 durable,lasting,long
 long,long
 semipermanent,long
@@ -39486,7 +39449,6 @@ heartsease,viola
 philter,philtre,potion
 philter,philtre,potion
 philter,philtre,potion
-song,
 keepsake,souvenir,token,relic
 loveable,lovable,adorable,endearing,lovely,angelic,angelical,cherubic,seraphic,sweet,cuddlesome,cuddly,amicable,desirable,loving
 lovebird,budgerigar,budgereegah,budgerygah,budgie,parakeet,parrakeet,parroket,paraquet,paroquet,parroquet,parrot
@@ -39526,7 +39488,7 @@ low,alto,contralto,baritone,bass,deep,contrabass,throaty,inclined
 powerless,weak
 unaggressive,nonaggressive
 affordable,cheap,inexpensive
-chunky,dumpy,squat,squatty,stumpy,short,lowset,low,
+chunky,dumpy,squat,squatty,stumpy,short,lowset,low
 blue,depressed,dispirited,down,downcast,downhearted,low,dejected
 downheartedness,dispiritedness,sadness,unhappiness
 low,soft
@@ -39921,7 +39883,7 @@ lypressin,antidiuretic,vasoconstrictor,vasoconstrictive
 lyra,Lyra,constellation
 lyrate,simple,unsubdivided
 lyre,harp
-lyreflower,herb,
+lyreflower,herb
 lyrebird,passerine
 lyreflower,herb
 lyric,lyrical,emotional,lyric,poem,words,language,text,poem,write,compose,pen,indite
@@ -40009,7 +39971,7 @@ machinator,conspirator,coconspirator,plotter,criminal,felon,crook,outlaw,malefac
 machine,device,organization,organisation,person,individual,someone,somebody,mortal,human,soul,car,auto,automobile,motorcar,organization,organisation,shape,form,work,mold,mould,forge,produce,make,create
 automated,automatic
 automated,automatic
-wash,launder,
+wash,launder
 machinelike,automatic,automatonlike,robotlike,mechanical
 machinery,machine,system,scheme
 machinist,mechanic,craftsman,artisan,journeyman,artificer
@@ -40736,7 +40698,7 @@ map,representation,mapping,correspondence,function,represent,interpret,explore,s
 mapinguari,mylodontid
 maple,wood,Acer
 emblem,allegory
-maplelike,branchy,
+maplelike,branchy
 maplelike,branchy
 mapmaking,cartography,devising,fashioning,making
 mapper,plotter,clerk
@@ -40770,7 +40732,7 @@ maraud,foray,raid,penetration,incursion,raid
 marauder,predator,vulture,piranha,attacker,aggressor,assailant,assaulter
 marauding,predatory,raiding,offensive
 marble,rock,stone,ball,sculpture,stain
-marblewood,zebrawood,marblewood,tree,
+marblewood,zebrawood,marblewood,tree
 marbled,marbleized,marbleised,patterned
 marbleisation,marbleization,marbleizing,marbleising,texture
 marbleise,marbleize
@@ -41089,7 +41051,7 @@ matai,conifer
 matakam,Matakam,Mafa
 matamoros,Matamoros,city,metropolis
 match,lucifer,lighter,light,igniter,ignitor,contest,competition,lighter,light,igniter,ignitor,mate,duplicate,duplication,score,catch,adult,grownup,peer,equal,compeer,person,individual,someone,somebody,mortal,human,soul,couple,mates,family,counterpart,fit,correspond,check,jibe,gibe,tally,agree,equal,be,supply,provide,render,furnish,mate,couple,pair,twin,join,equal,touch,rival,compete,vie,contend,fit,adjust,set,correct,meet,cope,contend,grapple,deal,manage,join,pit,oppose,confront,face,adjust,conform,adapt,equal,equalize,equalise,equate,change,alter,modify
-matchup,pairing,
+matchup,pairing
 matchboard,board,plank
 matchbook,folder
 matchbox,box
@@ -41323,7 +41285,7 @@ mealie,ear,spike,capitulum
 mealtime,hour
 mealworm,larva
 mealy,farinaceous,grainy,granular,granulose,gritty,sandy,coarse
-mealymouthed,indirect,
+mealymouthed,indirect
 mealymouthed,indirect
 mean,average,normal,hateful,nasty,awful,base,meanspirited,ignoble,skilled,beggarly,poor,mingy,miserly,tight,stingy,ungenerous,beggarly,stingy,ungenerous,average,norm,intend,convey,impart,entail,imply,necessitate,intend,signify,intend,think,will,wish,associate,relate,link,colligate,connect,intend,destine,designate,specify
 meander,curve,weave,wind,thread,wander,travel,go,move,locomote
@@ -42476,7 +42438,7 @@ psychoactive,psychotropic
 psychoactive,psychotropic
 psychoactive,psychotropic,emotional
 psychoactive,psychotropic
-mentality,outlook,mindset,attitude,
+mentality,outlook,mindset,attitude
 mindanao,Mindanao,island
 minded,oriented,orientated,inclined,apt,disposed,given,tending,inclined
 minden,Minden
@@ -42796,7 +42758,7 @@ misstep,trip,stumble,blunder,blooper,bloomer,bungle,fuckup,flub,botch,boner
 missus,missis,wife
 missy,girl,miss,fille,woman
 mist,fog,cover,obscure,befog,becloud,obnubilate,fog,cloud,hide,conceal,spray
-mistflower,ageratum,flower,
+mistflower,ageratum,flower
 mistake,error,fault,nonaccomplishment,nonachievement,misunderstanding,misapprehension,misconception,error,misstatement,misidentify,identify,err,slip
 mistaken,misguided,wrong,false,incorrect
 mistakenly,erroneously
@@ -43375,8 +43337,8 @@ moodiness,distemper,disposition,temperament
 moody,dark,dour,glowering,glum,morose,saturnine,sour,sullen,temperamental,emotional,Moody,Moody,evangelist,revivalist,gospeler,gospeller
 moolah,boodle,bread,cabbage,clams,dinero,dough,gelt,kale,lettuce,lolly,lucre,loot,pelf,scratch,shekels,simoleons,sugar,wampum,money
 moon,satellite,object,lunation,month,moonlight,moonshine,light,Moon,satellite,daydream,idle,laze,slug,stagnate,idle,laze,slug,stagnate,expose,exhibit,display
-smuggler,runner,contrabandist,criminal,felon,crook,outlaw,malefactor,
-moonbeam,beam,ray,shaft,irradiation,
+smuggler,runner,contrabandist,criminal,felon,crook,outlaw,malefactor
+moonbeam,beam,ray,shaft,irradiation
 moonlike,round,circular
 selenolatry,worship
 moonbeam,beam,ray,shaft,irradiation
@@ -43396,7 +43358,7 @@ moonstruck,lunatic,insane
 moonwalk,step,walk
 moony,moonlit,dreamy,woolgathering,inattentive
 moor,Moor,Muslim,Moslem,Mohammedan,Muhammedan,Muhammadan,Islamist,moorland,plain,field,champaign,berth,fasten,fix,secure,berth,wharf,dock,fasten,fix,secure
-moorfowl,moorbird,moorgame,ptarmigan,
+moorfowl,moorbird,moorgame,ptarmigan
 moorage,fee,mooring,berth,slip,anchorage,docking,arrival
 moorbird,moorfowl,moorgame,ptarmigan
 moorcock,moorfowl,moorbird,moorgame
@@ -43409,7 +43371,7 @@ moorish,Moorish,Moresque,Muslim,Moslem,Mohammedan,Muhammedan,Muhammadan,Islamist
 moorland,moor,plain,field,champaign
 moorwort,andromeda
 moose,elk,deer,cervid
-moosewood,maple,leatherwood,moosewood,wicopy,ropebark,shrub,bush,
+moosewood,maple,leatherwood,moosewood,wicopy,ropebark,shrub,bush
 moosewood,maple,leatherwood,wicopy,ropebark,shrub,bush
 moot,irrelevant,arguable,debatable,disputable,controversial,lawsuit,suit,case,cause,causa,consider,debate,deliberate,discuss
 mop,swab,swob,absorb,suck,imbibe,draw,pout,mow,grimace
@@ -43649,7 +43611,7 @@ moult,molt,molting,moulting,ecdysis,shedding,sloughing,shed,molt,exuviate,slough
 moulter,molter,animal,beast,brute,creature,fauna
 moulting,molt,molting,moult,ecdysis,shedding,sloughing
 mound,hill,knoll,hillock,hummock,hammock,hill,pile,heap,cumulus,collection,aggregation,accumulation,assemblage,hill,structure,construction,pitcher,position,shape,form,work,mold,mould,forge
-megapode,gallinacean,
+megapode,gallinacean
 mount,horse,climb,rise,ascent,ascension,ascending,mountain,elevation,setting,mounting,backing,layer,bed,strengthener,reinforcement,attach,wax,climb,rise,increase,fix,prepare,ready,set,initiate,pioneer,bestride,move,climb,rise,lift,arise,uprise,organize,organise,prepare,devise,machinate,ride,copulate,mate,pair,couple
 mountain,upland,mount,elevation,tons,dozens,heaps,lots,piles,scores,stacks,loads,rafts,slews,wads,oodles,gobs,scads,lashings
 mountaineer,climber,adventurer,venturer,climb,mount
@@ -43765,7 +43727,7 @@ mucoviscidosis,CF,fibrosis
 mucuna,shrub,bush
 mucus,secretion
 mud,clay,soil,dirt,slander,mire,muck,dirty,soil,begrime,grime,colly,bemire,plaster,daub
-mudwrestle,wrestle,
+mudwrestle,wrestle
 mudcat,catfish,goujon,catfish
 mudder,racehorse,bangtail
 muddied,dirty,dingy,muddy,impure
@@ -43852,7 +43814,7 @@ mullioned,divided
 mulloidichthys,Mulloidichthys
 mulloway,jewfish,sciaenid
 mullus,Mullus
-multiethnic,social,
+multiethnic,social
 multivalent,ambiguous
 multicellular,cellular
 multicolor,motley,calico,multicolour,multicolored,multicoloured,painted,particolored,particoloured,piebald,pied,varicolored,varicoloured,colored,coloured,colorful
@@ -43999,7 +43961,7 @@ muscidae,Muscidae
 muscivora,Muscivora
 scissortail,flycatcher
 muscle,musculus,contractor,muscleman,bully,tough,hooligan,ruffian,roughneck,rowdy,yob,yobo,yobbo,authority,authorization,authorisation,dominance,brawn,sinew,strength,pass
-bodybuilder,musclebuilder,muscleman,person,individual,someone,somebody,mortal,human,soul,,
+bodybuilder,musclebuilder,muscleman,person,individual,someone,somebody,mortal,human,soul
 musclebuilder,bodybuilder,muscleman,person,individual,someone,somebody,mortal,human,soul
 musclebuilding,bodybuilding,exercise,exercising,workout
 muscleman,muscle,bully,tough,hooligan,ruffian,roughneck,rowdy,yob,yobo,yobbo,bodybuilder,musclebuilder,person,individual,someone,somebody,mortal,human,soul
@@ -44418,8 +44380,8 @@ namtar,Namtar,Namtaru
 namtaru,Namtar,Namtaru
 namur,Namur,city,metropolis
 nan,grandma,grandmother,granny,grannie,gran,Nan,river,bread,breadstuff
-Nanchang,city,metropolis,
-Nanning,city,metropolis,
+Nanchang,city,metropolis
+Nanning,city,metropolis
 nanaimo,Nanaimo,town
 nanak,Nanak
 nance,fagot,faggot,fag,fairy,pansy,queen,queer,poof,poove,pouf,shirtlifter
@@ -44753,9 +44715,9 @@ needer,wanter,person,individual,someone,somebody,mortal,human,soul
 needful,needed,required,requisite,necessary
 needfully,necessarily
 needle,pointer,implement,stylus,goad,harass,hassle,harry,chivy,chivvy,chevy,chevvy,beset,plague,molest,provoke,prickle,prick
-needlebush,shrub,bush,,
+needlebush,shrub,bush
 acerate,acerose,acicular,simple,unsubdivided,pointed
-needlewood,shrub,bush,,
+needlewood,shrub,bush
 needlebush,shrub,bush
 needlecraft,needlework,creation,needlework,handicraft
 needlefish,gar,billfish,teleost,teleostan,pipefish,teleost,teleostan
@@ -45502,9 +45464,9 @@ fairness,equity
 infinite,infinitive
 Gentile,goy,Christian
 nonprofit,noncommercial
-nonproliferation,prevention,bar,
-nonresinous,nonresiny,nonadhesive,
-nonresinous,nonresiny,nonadhesive,
+nonproliferation,prevention,bar
+nonresinous,nonresiny,nonadhesive
+nonresinous,nonresiny,nonadhesive
 reformer,reformist,crusader,meliorist
 Fennic,Finnic
 nona,Nona
@@ -45913,9 +45875,7 @@ norse,Scandinavian,Norse,Norwegian,Norse,Scandinavian,Norse,Northman,European,No
 norseman,Norwegian,Norseman,Norse,European
 north,north,northbound,northward,northerly,northern,northerly,northern,northernmost,northmost,northeastern,northeasterly,northeast,northeasterly,northeast,northwestern,northwesterly,northwest,northwesterly,northwest,northeastward,northwestward,North,Union,North,America,US,U.S.,USA,U.S.A.,N,North,northland,septentrion,region,direction,North,statesman,solon,northerly,northwards,northward
 northern,north
-northeast,
 Arctic,polar
-northwest,
 northbound,northward,north
 northeast,northeastern,northeasterly,north,northeasterly,north,NE,point,Northeast
 northeaster,noreaster,storm
@@ -46306,8 +46266,8 @@ o'keeffe,O'Keeffe,painter
 o'neill,O'Neill,dramatist,playwright
 o'toole,O'Toole,actor,histrion,player,thespian
 o.d.,overdose,drug,dose
-o.e.d.,O.E.D.,OED,
-o.k.,fine,ok,okay,satisfactory,,O.K.,OK,okay,okey,okeh,sanction,countenance,endorsement,indorsement,warrant,imprimatur,Oklahoma,OK,approve,O.K.,okay,sanction,authorize,authorise,pass,clear,okay,O.K.,alright,fine,alright,OK
+o.e.d.,O.E.D.,OED
+o.k.,fine,ok,okay,satisfactory,O.K.,OK,okay,okey,okeh,sanction,countenance,endorsement,indorsement,warrant,imprimatur,Oklahoma,OK,approve,O.K.,okay,sanction,authorize,authorise,pass,clear,okay,O.K.,alright,fine,alright,OK
 oaf,lout,clod,stumblebum,goon,lubber,lummox,lump,gawk
 oafish,boorish,loutish,neanderthal,neandertal,swinish,unrefined
 oahu,Oahu,island
@@ -46664,8 +46624,8 @@ eccentric,nonconcentric
 eccentric,nonconcentric
 indelicate,tasteless,bawdy,ribald,dirty
 indelicate,tasteless
-off,inactive,
-napping,unready,
+off,inactive
+napping,unready
 offhand,offhanded,offhandedly,offhand,offhanded,offhandedly
 false,sour,inharmonious,unharmonious
 shop,store
@@ -46790,7 +46750,7 @@ old,old,aged,elderly,older,senior,aged,aging,ageing,senescent,ancient,anile,cent
 antique,demode,ex,outmoded,passe,passee,unfashionable,unstylish
 banal,commonplace,hackneyed,shopworn,stock,threadbare,timeworn,tired,trite,unoriginal,antique,demode,ex,outmoded,passe,passee,unfashionable,unstylish
 quaint,fashionable,stylish
-veteran,oldtimer,warhorse,stager,expert,oldtimer,gaffer,antique,greybeard,graybeard,Methuselah,
+veteran,oldtimer,warhorse,stager,expert,oldtimer,gaffer,antique,greybeard,graybeard,Methuselah
 nonmodern,region
 olden,past
 oldenberg,Oldenberg,sculptor,sculpturer,carver
@@ -46843,7 +46803,7 @@ oligosaccharide,carbohydrate,saccharide,sugar
 oliguria,symptom,micturition,urination
 olimbos,Olympus,Olimbos
 olive,chromatic,fruit,wood,relish,drupe
-olivelike,rounded,
+olivelike,rounded
 olivelike,rounded
 olivenite,mineral
 oliver,Oliver,jazzman
@@ -46909,7 +46869,7 @@ omphalotus,Omphalotus
 omphalus,navel,umbilicus,bellybutton,omphalos,point
 omsk,Omsk,city,metropolis
 on,on,connected,on,happening,active,along
-on,active,
+on,active
 true,harmonious
 connected,current
 activity,working,employed,alert
@@ -47770,7 +47730,7 @@ over,complete,concluded,ended,terminated,finished,play,across,o'er
 overcompensate,right,compensate,redress,correct
 congestion,crowding
 embellished,empurpled,purple,rhetorical
-overrefine,polish,refine,down,
+overrefine,polish,refine,down
 nonprescription,otc,unlisted
 overage,overaged,superannuated,old
 extraordinary,immoderate
@@ -48148,7 +48108,7 @@ oxyuranus,Oxyuranus
 oxyuridae,Oxyuridae
 oyabun,supervisor
 oyster,bivalve,pelecypod,lamellibranch,huitre,shellfish,helping,portion,serving,gather,garner,collect
-oysterfish,toadfish,,
+oysterfish,toadfish
 oystercatcher,shorebird
 oysterfish,toadfish
 oz.,ounce
@@ -48166,7 +48126,7 @@ ozothamnus,Ozothamnus
 p,phosphorus,P,element,P,letter
 p.a.,P.A.,PA,dad,dada,daddy,pa,papa,pappa,pater,pop,father,begetter,protactinium,protoactinium,Pa,metal,pascal,Pa,Pennsylvania,PA,annually
 p.e.,P.E.,pe,letter
-p.m.,pm,postmeridian,,P.M.,PM,
+p.m.,pm,postmeridian,P.M.,PM
 p.o.,PO,P.O.,noncom,polonium,Po,metal,Po,river,PO
 pa,dad,dada,daddy,papa,pappa,pater,pop,father,begetter,protactinium,protoactinium,Pa,metal,pascal,Pa,Pennsylvania,PA,P.A.,PA
 paba,PABA,acid
@@ -48231,7 +48191,6 @@ padded,cushioned,cushiony,soft
 padder,footpad,highjacker,highwayman,hijacker
 padding,cushioning,artifact,artefact
 paddle,bat,blade,vane,oar,boat,dabble,play,swim,toddle,coggle,totter,dodder,waddle,walk,spank,larrup,beat,stir
-covering,
 steamer,steamship
 paddlefish,duckbill,ganoid
 paddler,canoeist,boatman,boater,waterman
@@ -48496,7 +48455,7 @@ pampering,indulgent,indulgence,indulging,humoring,gratification
 pamphlet,booklet,brochure,folder,leaflet,book,tract,treatise
 pamphleteer,writer,author
 pan,cookware,Pan,container,Pan,travel,go,move,locomote,wash,trash,disparage,belittle
-Panhellenic,principle,
+Panhellenic,principle
 panacea,nostrum,remedy,curative,cure
 panache,dash,elan,flair,style,elegance,plume
 panadol,acetaminophen,Datril,Tylenol,Panadol,Phenaphen,Tempra,analgesic,anodyne,painkiller
@@ -49054,7 +49013,7 @@ passee,antique,demode,ex,outmoded,passe,unfashionable,unstylish
 passementerie,trimming,trim,adornment
 passenger,rider,traveler,traveller
 passer,passerby,pedestrian,walker,footer,person,individual,someone,somebody,mortal,human,soul,student,pupil,educatee,testee,examinee,Passer
-passerby,passer,pedestrian,walker,footer,
+passerby,passer,pedestrian,walker,footer
 passerby,passer,pedestrian,walker,footer
 passeres,Oscines,Passeres
 passeridae,Passeridae
@@ -49308,7 +49267,7 @@ pdl,poundal
 pe,letter
 napa,crucifer
 pea,legume,legume,legume
-peachick,peafowl,
+peachick,peafowl
 peabody,Peabody,educator,pedagogue
 peace,order,harmony,concord,concordance,peacefulness,repose,serenity,heartsease,ataraxis,tranquillity,tranquility,quietness,quietude,security,pacification,treaty,pact,accord
 peaceable,peaceful
@@ -49323,7 +49282,7 @@ peacemaker,conciliator,pacifier,reconciler,mediator,intermediator,intermediary,i
 peacenik,dove,pacifist,pacificist,disarmer
 peacetime,period
 peach,smasher,stunner,knockout,beauty,ravisher,sweetheart,lulu,looker,mantrap,dish,woman,drupe,apricot,pink,talk,tattle,blab,babble,sing,disclose,reveal,discover,expose,divulge,impart,break
-brazilwood,peachwood,tree,
+brazilwood,peachwood,tree
 peachick,peafowl
 peachwood,brazilwood,tree
 peachy,bully,corking,cracking,dandy,great,groovy,keen,neat,nifty,swell,smashing,good
@@ -49343,8 +49302,8 @@ peanuts,sum,amount,peanut,pod,seedpod,peanut,legume,peanut,child,kid,youngster,m
 pear,pome
 round,circular,orotund,rotund,round,full
 pearl,jewel,gem,bone,ivory,white,whiteness,drop,bead,gather,garner,collect
-pearlfish,percoid,percoidean,
-pearlwort,pearlweed,groundcover,
+pearlfish,percoid,percoidean
+pearlwort,pearlweed,groundcover
 pearler,diver,frogman
 pearlescent,iridescent,nacreous,opalescent,opaline,bright
 pearlfish,percoid,percoidean
@@ -49537,7 +49496,6 @@ pemican,pemmican,meat
 pemmican,pemican,meat
 pempheridae,Pempheridae
 pen,enclosure,playpen,enclosure,penitentiary,swan,write,compose,indite
-pentail,
 penal,punitive,punitory,punishable,illegal
 penalisation,punishment,penalty,penalization
 penalise,punish,penalize
@@ -50116,7 +50074,7 @@ pestilent,baneful,deadly,pernicious,noxious,harmful,pestilential,pestiferous,pla
 pestilential,pestilent,pestiferous,plaguey,epidemic
 pestle,stamp,machine,muller,pounder,tool,grind,mash,crunch,bray,comminute
 pet,favored,favorite,favourite,preferred,loved,animal,beast,brute,creature,fauna,darling,favorite,favourite,dearie,deary,ducky,lover,irritability,crossness,fretfulness,fussiness,peevishness,petulance,choler,PET,imaging,tomography,caress,caress
-petfood,feed,provender,,
+petfood,feed,provender
 petaled,petalous,petalled,gamopetalous,sympetalous,polypetalous,salverform
 petalled,petalous,petaled,gamopetalous,sympetalous,polypetalous,salverform
 petalless,apetalous
@@ -50193,7 +50151,7 @@ pfannkuchen,pancake,battercake,flapcake,flapjack,griddlecake,hotcake
 pfc,perfluorocarbon,PFC,fluorocarbon
 pflp,PFLP,FTO
 ph,pH
-ph.d.,Ph.D.,PhD,
+ph.d.,Ph.D.,PhD
 phacelia,scorpionweed,flower
 phacochoerus,Phacochoerus
 phaeochromocytoma,pheochromocytoma,tumor,tumour,neoplasm
@@ -50762,7 +50720,6 @@ pigweed,goosefoot,amaranth,greens,green
 pij,PIJ,FTO
 pika,coney,cony,lagomorph
 pike,expressway,freeway,motorway,superhighway,throughway,thruway,highway,point,weapon,arm,percoid,percoidean
-perch,
 pikeblenny,blennioid
 pikestaff,staff
 pilaf,pilaff,pilau,pilaw,dish
@@ -50847,7 +50804,7 @@ pindar,Pindar,poet
 pindaric,Pindaric,ode
 pindolol,Visken
 pine,conifer,wood,ache,yearn,yen,languish,hanker,long,yearn
-nitweed,pineweed,
+nitweed,pineweed
 pineal,endocrine,rounded
 pinealoma,tumor,tumour,neoplasm
 pineapple,herb,ananas
@@ -51089,7 +51046,7 @@ placative,appeasing,placating,placatory,conciliatory,conciliative
 placatory,appeasing,placating,placative,conciliatory,conciliative
 place,spot,point,property,cognition,knowledge,noesis,vicinity,locality,neighborhood,neighbourhood,stead,position,lieu,function,office,part,role,shoes,situation,position,home,residence,abode,position,post,berth,office,spot,billet,situation,occupation,business,job,line,position,point,station,rank,seat,space,passage,condition,status,plaza,piazza,square,position,item,point,space,area,expanse,put,set,pose,position,lay,move,displace,delegate,designate,depute,assign,rate,rank,range,order,grade,judge,locate,site,station,post,base,send,order,rank,target,aim,direct,point,aim,take,train,direct,identify,determine,set,delegate,designate,depute,assign,set,localize,localise,stage,present,represent,put,set,estimate,gauge,approximate,guess,judge,localize,localise,situate,locate,invest,put,commit,spend,expend,drop,station,post,base,send,move,displace,race,run,sing
 kick,kick
-placekicker,kicker,
+placekicker,kicker
 kick,boot,kicking
 topolatry,idolatry,devotion,veneration,cultism
 placeable,recognizable,recognisable,identifiable
@@ -51298,8 +51255,8 @@ plausive,approving,approbative,approbatory,favorable,favourable
 plautus,Plautus,dramatist,playwright,Plautus
 plavix,Plavix,medicine,medication,medicament
 play,drama,show,maneuver,manoeuvre,motion,movement,move,action,activity,activeness,use,usage,utilization,utilisation,employment,exercise,bid,attempt,effort,endeavor,endeavour,try,diversion,recreation,measure,quantity,amount,freedom,shimmer,change,alteration,modification,fun,sport,wit,humor,humour,witticism,wittiness,looseness,movability,movableness,frolic,romp,gambol,caper,diversion,recreation,gambling,gaming,diversion,recreation,vice,turn,activity,swordplay,action,compete,vie,contend,act,move,perform,act,represent,act,spiel,sound,act,act,behave,do,travel,go,move,locomote,gamble,recreate,simulate,assume,sham,feign,sound,perform,deploy,toy,act,behave,do,act,move,run,toy,fiddle,diddle,manipulate,exploit,work,dally,trifle,consider,take,deal,dally,toy,flirt,act,move,move,displace,act,roleplay,playact,perform,bring,work,wreak,make,create,discharge,bet,wager,bet,wager,gamble,hit,use,utilize,utilise,apply,employ,use,utilize,utilise,apply,employ,meet,encounter,exhaust,beat,tucker
-barnstormer,playactor,trouper,actor,histrion,player,thespian,
-playbox,box,
+barnstormer,playactor,trouper,actor,histrion,player,thespian
+playbox,box
 playable,playable
 playact,act,play,roleplay,perform
 playacting,acting,playing,performing,activity
@@ -51686,7 +51643,7 @@ toed,toe
 poise,equilibrium,aplomb,assuredness,cool,composure,calm,calmness,equanimity,hover,brace,fix,prepare,ready,set,put,set,place,pose,position,lay,balance,hold,carry,bear
 poised,balanced,collected,equanimous,composed
 poison,substance,matter,destructiveness,corrupt,pervert,subvert,demoralize,demoralise,debauch,debase,profane,vitiate,deprave,misdirect,kill,kill,envenom,change,alter,modify,drug,dose
-poisonberry,nightshade,
+poisonberry,nightshade
 poisonberry,nightshade
 poisoner,killer,slayer
 poisoning,intoxication,killing,kill
@@ -52076,7 +52033,7 @@ porifera,Porifera,phylum
 poriferan,sponge,parazoan,invertebrate
 poriferous,porous,porose
 pork,porc,meat,appropriation
-porkfish,grunt,
+porkfish,grunt
 porkchop,chop
 porker,hog,pig,grunter,squealer
 porkfish,grunt
@@ -52180,7 +52137,7 @@ possibly,perchance,perhaps,maybe,mayhap,peradventure,potentially
 possum,opossum,marsupial,phalanger,opossum,marsupial
 possumwood,persimmon
 post,station,position,place,position,berth,office,spot,billet,place,situation,occupation,business,job,line,upright,vertical,Post,aviator,aeronaut,airman,flier,flyer,Post,writer,author,Post,mail,collection,aggregation,accumulation,assemblage,stake,mail,communication,communicating,delivery,bringing,affix,announce,denote,delegate,designate,depute,assign,station,base,send,place,move,displace,record,enter,list,carry,transfer,stake,mark,install,instal,mail,send,transfer,brand,call
-Postimpressionist,painter,
+Postimpressionist,painter
 postage,charge,stamp,token,item
 postal,communication,communicating
 postbag,mailbag,bag
@@ -52440,12 +52397,11 @@ prayerbook,book
 prayerful,pious
 prazosin,Minipress,antihypertensive
 prc,China,PRC
-preeclampsia,toxemia,toxaemia,
-preeminently,
-preemption,preemption,preemption,right,preemption,appropriation,
-preemptor,appropriator,preemptor,bidder,
-preexistent,preexisting,antecedent,preceding,
-preexistent,preexisting,antecedent,preceding,
+preeclampsia,toxemia,toxaemia
+preemption,preemption,preemption,right,preemption,appropriation
+preemptor,appropriator,preemptor,bidder
+preexistent,preexisting,antecedent,preceding
+preexistent,preexisting,antecedent,preceding
 artist,artist
 preach,prophesy,lecture,talk,advocate,urge,press,exhort
 preacher,sermonizer,sermoniser,clergyman,reverend
@@ -53001,7 +52957,7 @@ prizefighter,gladiator,boxer,pugilist
 prizewinning,champion,best
 prn,PRN
 pro,pro,affirmative,favoring,professional,athlete,jock,argument,statement
-proinflammatory,unhealthy,
+proinflammatory,unhealthy
 advocate,advocator,proponent,exponent
 proactive,proactive,active
 probabilism,casuistry
@@ -53869,8 +53825,8 @@ puckishness,impishness,mischievousness,whimsicality,playfulness,fun
 pud,pudding,course
 stupid,dullard,dolt,pillock,simpleton,simple
 pudding,dish,pud,course,dessert,sweet,afters
-countenance,physiognomy,phiz,visage,kisser,smiler,mug,
-puddingwife,wrasse,
+countenance,physiognomy,phiz,visage,kisser,smiler,mug
+puddingwife,wrasse
 puddingheaded,addlebrained,addlepated,potty,muddleheaded,confused
 puddingwife,wrasse
 puddle,pool,water,pool,place,spot,wade,shape,form,work,mold,mould,forge,plant,set,pack,bundle,wad,compact,putter,potter,tinker,monkey,muddle,roil,rile,spatter,splatter,plash,splash,splosh,swash,addle,muddle,jumble,confuse,make,urinate,piddle,micturate,piss,pee,wee,excrete,egest,eliminate,pass
@@ -53967,7 +53923,7 @@ pummel,pommel,biff,hit
 pummelo,pomelo,shaddock,citrus
 pump,heart,ticker,viscus,pumps,shoe,wield,handle,shoot,draw,supply,provide,render,furnish,spurt,spirt,gush,spout,move,displace,raise,lift,elevate,question,query
 pumped,wired,tense
-pumped,wired,tense,
+pumped,wired,tense
 pumpkin,squash,vegetable,veggie
 oblate,rounded
 pumpkinseed,sunfish,centrarchid
@@ -54446,8 +54402,7 @@ quarrying,production
 quarryman,quarrier,worker
 quarter,fourth,quartern,play,session,period,orientation,coin,person,individual,someone,somebody,mortal,human,soul,stern,poop,tail,rear,back,billet,canton,lodge,accommodate,draw,kill,segment,section,divide,fraction
 quadrant,line
-interval,
-quartervine,vine,
+quartervine,vine
 quarterback,back,back,play
 quarterdeck,deck
 quarterfinal,match
@@ -54651,7 +54606,7 @@ rabbinate,priesthood
 rabbinic,rabbinical
 rabbinical,rabbinic
 rabbit,coney,cony,leporid,lapin,fur,pelt,hare,game,hunt,run
-rabbitweed,snakeweed,matchweed,matchbush,
+rabbitweed,snakeweed,matchweed,matchbush
 rabbiteye,blueberry
 rabbitfish,chimaera
 rabbitweed,snakeweed,matchweed,matchbush
@@ -55171,7 +55126,6 @@ razing,wrecking,destruction,demolition,wipeout,leveling,demolishing,destruction,
 razmataz,razzle,razzmatazz,play
 razor,shave
 razorback,backed
-wrasse,
 distinct,sharp
 razorback,backed,swine,rorqual
 razorbill,auk
@@ -55199,7 +55153,6 @@ echo,reverberation,replication
 reappear,appear
 stress,emphasize,emphasise,punctuate,accent,accentuate
 stress,emphasize,emphasise,punctuate,accent,accentuate
-reentrant,
 rejig,equip,fit,outfit
 probe,examine,review,reexamine,analyze,analyse,study,examine,canvass,canvas
 reliving,experience
@@ -55208,10 +55161,10 @@ research,search,explore
 regeneration,reconstruction,reformation,improvement,melioration,Reformation,reclamation,reformation,rescue,deliverance,delivery,saving
 organized,Reformed,unorthodox,reformed,regenerate
 integrate,incorporate
-reintroduce,introduce,present,acquaint,
+reintroduce,introduce,present,acquaint
 proposal,reintroduction,presentation,introduction,intro
 commutation,clemency,mercifulness,mercy
-reuptake,uptake,
+reuptake,uptake
 reabsorb,resorb,absorb
 reabsorption,resorption
 reach,range,limit,scope,range,orbit,compass,ambit,extent,reaching,stretch,motion,movement,move,motility,compass,range,grasp,capability,capableness,potentiality,make,attain,hit,gain,hit,attain,arrive,get,come,move,contact,communicate,intercommunicate,achieve,accomplish,attain,succeed,win,touch,be,make,achieve,accomplish,attain,pass,hand,give,transfer,strive,strain,tug,labor,labour,push,drive
@@ -55575,14 +55528,13 @@ recyclable,reclaimable,reusable,useful,utile
 recycle,cycle,reprocess,reuse,use,utilize,utilise,apply,employ
 recycling,use,usage,utilization,utilisation,employment,exercise
 red,reddish,ruddy,carmine,cerise,cherry,crimson,ruby,scarlet,chromatic,crimson,violent,bloody,crimson,reddened,flushed,colored,coloured,colorful,bloody,redness,Red,river,Bolshevik,Marxist,pinko,bolshie,radical,loss,sum,amount
-redberry,buckthorn,redberry,snakeberry,baneberry,cohosh,
+redberry,buckthorn,redberry,snakeberry,baneberry,cohosh
 protanopic,blind,unsighted
 hearty,lusty,healthy
-redbrick,modern,
-uncommon,
+redbrick,modern
 clothed,clad
 crimson,red,reddened,flushed,colored,coloured,colorful,blushful,blushing,discomposed
-redhead,redheader,carrottop,person,individual,someone,somebody,mortal,human,soul,
+redhead,redheader,carrottop,person,individual,someone,somebody,mortal,human,soul
 juicy,luscious,voluptuous,sexy,hot,new,sizzling,hot,hot,blistering,hot,fast
 redact,redactor,reviser,rewriter,editor,frame,cast,put,couch,formulate,word,phrase,articulate,edit,change,alter,modify
 redaction,editing,writing,writing,authorship,composition,penning
@@ -56486,7 +56438,7 @@ responsibleness,responsibility,trustworthiness,trustiness
 responsive,antiphonal,phrase,responsive,answering,respondent,sensitive,sensitive,amenable,tractable,susceptible,sensitive
 responsiveness,reactivity,sensitivity,sensitiveness,sensibility,quality
 rest,remainder,balance,residual,residue,residuum,part,portion,component,ease,repose,relaxation,inactivity,respite,relief,pause,intermission,break,interruption,suspension,inaction,inactivity,inactiveness,sleep,quietus,death,support,be,breathe,pause,intermit,break,lie,be,recumb,repose,recline,stay,remain,be,reside,repose,put,set,place,pose,position,lay,perch,roost,sit,pillow,put,set,place,pose,position,lay
-restharrow,subshrub,suffrutex,restharrow,subshrub,suffrutex,
+restharrow,subshrub,suffrutex,restharrow,subshrub,suffrutex
 restart,start,resume,continue,uphold,preserve
 restate,repeat,reiterate,ingeminate,iterate,retell,tell
 restatement,statement
@@ -57031,7 +56983,7 @@ absolute,downright,rank,sheer,complete
 right,right,helpful
 dextral,right,dextral,right,dextrorotary,dextrorotatory,clockwise
 dextrality,handedness,laterality
-pitcher,hurler,twirler,righthander,person,individual,someone,somebody,mortal,human,soul,,
+pitcher,hurler,twirler,righthander,person,individual,someone,somebody,mortal,human,soul
 right,correct
 rightist,right
 rightist,conservative,conservativist
@@ -57250,7 +57202,7 @@ rochambeau,Rochambeau,general
 rochester,Rochester,city,metropolis,Rochester,town
 rock,stone,stone,material,stuff,Rock,gynecologist,gynaecologist,candy,rock'n'roll,careen,sway,tilt,lurch,pitch,pitching,sway,shake,sway,move,displace
 rock'n'roll,rock
-rock'n'roll,rock,
+rock'n'roll,rock
 reduced,low
 rockbound,cliffy,clifflike,inflexible
 dependable,steady
@@ -57415,7 +57367,7 @@ rootstalk,rhizome,rootstock,stalk,stem
 rootstock,rhizome,rootstalk,stalk,stem,stock
 rope,line,rophy,roofy,roach,circle,flunitrazepan,Rohypnol,lasso,get,catch,capture,leash,tie,bind
 boxing,pugilism,fisticuffs
-ropemaker,roper,craftsman,artisan,journeyman,artificer,
+ropemaker,roper,craftsman,artisan,journeyman,artificer
 ropebark,leatherwood,moosewood,wicopy,shrub,bush
 ropedancer,ropewalker,aerialist
 ropemaker,roper,craftsman,artisan,journeyman,artificer
@@ -57748,7 +57700,7 @@ unexceptional,ordinary
 unexceptional,ordinary
 runproof,impervious,imperviable
 point,run
-runup,increase,approach,approaching,coming,
+runup,increase,approach,approaching,coming
 runabout,roadster,car,auto,automobile,machine,motorcar
 runaway,uncontrolled,blowout,romp,laugher,walkaway,victory,triumph,fugitive,person,individual,someone,somebody,mortal,human,soul
 runch,weed
@@ -57793,7 +57745,6 @@ ruscaceae,Ruscaceae
 ruscus,Ruscus
 ruse,artifice,maneuver,manoeuvre
 rush,unreserved,rushed,hurried,haste,hurry,rushing,motion,movement,move,spate,surge,upsurge,flow,flowing,Rush,doctor,doc,physician,MD,Dr.,medico,bang,boot,charge,flush,thrill,kick,exhilaration,excitement,outburst,burst,rushing,run,running,hotfoot,hasten,hie,speed,race,travel,go,move,locomote,assail,assault,attack,hurry,urge,press,exhort,hasten,hurry,festinate,act,move,run,race,move,displace,induce,stimulate,hasten,effect,effectuate
-grass,
 rushdie,Rushdie,writer,author
 rushed,rush,hurried
 rusher,migrant,migrator,person,individual,someone,somebody,mortal,human,soul
@@ -57856,7 +57807,7 @@ rynchops,Rynchops
 rypticus,Rypticus
 ryukyuan,Ryukyuan,Japanese,Nipponese,Ryukyuan,Japanese
 s,second,sec,sulfur,S,sulphur,element,south,S,mho,siemens,S,S,letter,randomness,entropy,S
-s.t.p.,STP,atmosphere,atm,
+s.t.p.,STP,atmosphere,atm
 s.u.v.,S.U.V.,car,auto,automobile,machine,motorcar
 s/n,signal/noise,S/N,ratio
 sa,SA,Sturmarbeiteilung,militia,reserves
@@ -57877,7 +57828,7 @@ sabbatical,sabbatic,leave,leave
 sabbatum,Saturday,Sabbatum,Sat,weekday
 sabellian,Sabellian
 saber,sabre,sabre,sword,blade,brand,steel,sabre,cut,sabre,kill
-sabertoothed,toothed,
+sabertoothed,toothed
 sabertooth,cat
 sabertoothed,toothed
 sabicu,wood,shrub,bush
@@ -58658,7 +58609,6 @@ sax,Sax,maker,shaper,saxophone
 saxatile,saxicolous,saxicoline
 saxe,Saxe,general,marshal,marshall,Saxony,Sachsen,Saxe
 dynasty,royalty
-Saxegothea,
 saxegothea,Saxegothea
 saxhorn,brass
 saxicola,Saxicola
@@ -59250,7 +59200,7 @@ scrotum,pouch,pocket
 scrounge,forage,hunt,run,schnorr,shnorr,cadge,beg
 scrounger,moocher,cadger,beggar,mendicant
 scrub,unimproved,chaparral,bush,vegetation,flora,scrubbing,scouring,cleaning,cleansing,cleanup,scour,rub,wash,lave
-scrubbird,passerine,,
+scrubbird,passerine
 scrubbed,clean
 scrubber,worker,brush,purifier
 scrubbing,scrub,scouring,cleaning,cleansing,cleanup
@@ -59335,12 +59285,12 @@ scythian,Scythian,nomad,Iranian,Scythian,nomad,Scythian,Iranian
 sd,SD
 se,selenium,Se,element,antioxidant,southeast,SE,point
 sea,sea,oceangoing,seafaring,seagoing,oversea,overseas,offshore,shipboard,oceanic,suboceanic,subocean,water,ocean
-seashore,coast,seacoast,shore,
+seashore,coast,seacoast,shore
 ormer,abalone
 deity,divinity,god,immortal
 undertow,undertide,undercurrent
-undertow,undertide,undercurrent,
-undertow,undertide,undercurrent,
+undertow,undertide,undercurrent
+undertow,undertide,undercurrent
 seabed,bed,bottom
 seabird,seafowl
 seaboard,seaside,seashore,coast,seacoast
@@ -59797,7 +59747,7 @@ semi,semifinal,match,rig,truck,motortruck,semitrailer,trailer
 painting,picture
 automatize,automatise,automate
 automatize,automatise,automate
-semiformal,formal,
+semiformal,formal
 semiabstract,nonrepresentational
 semiannual,biannual,biyearly,period
 semiannually,biyearly
@@ -60300,7 +60250,7 @@ shack,hovel,hut,hutch,shanty,shelter,dwell,reside,live,inhabit,people,populate,d
 shackle,bond,hamper,trammel,trammels,restraint,constraint,bar,pinion,restrain,confine,hold,fetter,restrain,confine,hold
 shackled,fettered,bound
 shad,fish,clupeid
-shadflower,draba,
+shadflower,draba
 shadberry,saskatoon,serviceberry,juneberry,berry
 shadblow,Juneberry,serviceberry,shadbush,shrub,bush
 shadbush,Juneberry,serviceberry,shadblow,shrub,bush
@@ -60337,7 +60287,7 @@ shahn,Shahn,painter
 shaitan,shaytan,genie,jinni,jinnee,djinni,djinny
 shakable,shakeable,contestable
 shake,shingle,milkshake,drink,trill,note,tone,handshake,handshaking,handclasp,acknowledgment,acknowledgement,tremble,shiver,reflex,wag,waggle,agitation,agitate,move,didder,judder,vibrate,rock,sway,weaken,stimulate,excite,stir,arouse,elicit,enkindle,kindle,evoke,fire,raise,provoke,escape,change,alter,modify,gesticulate,gesture,motion
-reorganization,reorganisation,shakeup,organization,organisation,
+reorganization,reorganisation,shakeup,organization,organisation
 shakeable,shakable,contestable
 shakedown,adjustment,accommodation,fitting,adjustment,accommodation,fitting,search,hunt,hunting,extortion
 shaken,jolted,agitated
@@ -60494,7 +60444,7 @@ shedding,sloughing,desquamation,peeling
 sheen,shininess,luster,lustre,radiance,radiancy,shine,effulgence,refulgence,refulgency
 sheeny,glistening,glossy,lustrous,shiny,shining,bright,kike,hymie,Jew,Hebrew,Israelite
 sheep,bovid,simpleton,simple,follower
-hippoboscid,ixodid,
+hippoboscid,ixodid
 sheepcote,fold,sheepfold,pen
 sheepfold,fold,sheepcote,pen
 sheepherder,shepherd,sheepman,herder,herdsman,drover
@@ -60716,7 +60666,7 @@ shodden,shod,shoed,booted,ironshod,roughshod,sandaled,sandalled,slippered
 shoddiness,trashiness,worthlessness,flimsiness,weakness
 shoddy,cheapjack,tawdry,inferior,weak,wool
 shoe,footwear,footgear,case,horseshoe,plate,scale,shell,skid,restraint,constraint,dress,clothe,enclothe,garb,raiment,tog,garment,habilitate,apparel
-shop,store,
+shop,store
 shoebill,shoebird,wader
 shoebird,shoebill,wader
 shoeblack,bootblack
@@ -60770,7 +60720,7 @@ shorn,sheared
 short,short,abbreviated,shortened,truncated,brief,little,clipped,fleeting,fugitive,momentaneous,momentary,telescoped,shortened,short,abbreviated,brief,close,curtal,shortened,shortish,telescoped,shortened,snub,stubby,truncate,truncated,short,chunky,dumpy,squat,squatty,stumpy,runty,squab,squabby,small,little,low,inadequate,poor,insufficient,deficient,short,short,tender,light,scant,insufficient,deficient,unstressed,unaccented,unretentive,forgetful,shortsighted,unforesightful,myopic,improvident,unforbearing,impatient,choleric,irascible,hotheaded,shortest,direct,brusque,brusk,curt,discourteous,tract,parcel,contact,tangency,shortstop,position,victimize,swindle,rook,goldbrick,nobble,diddle,bunco,defraud,scam,mulct,gyp,con,make,create,abruptly,suddenly,dead,unawares,curtly,shortly
 short,victimize,swindle,rook,goldbrick,nobble,diddle,bunco,defraud,scam,mulct,gyp,con
 thwart,queer,spoil,scotch,foil,cross,frustrate,baffle,bilk,short,make,create,bypass,avoid
-shortgrass,grass,
+shortgrass,grass
 hairy,hirsute
 undermanned,understaffed,inadequate
 roundheaded,brachycephalic,brachycranial,brachycranic
@@ -60824,7 +60774,7 @@ shoveller,shoveler,worker,shoveler,broadbill,duck
 shover,pusher,mover
 show,entertainment,amusement,display,demonstration,demo,communication,appearance,pretense,pretence,pretending,simulation,feigning,demo,exhibit,present,demonstrate,prove,demonstrate,establish,shew,confirm,corroborate,sustain,substantiate,support,affirm,testify,prove,evidence,inform,picture,depict,render,represent,interpret,express,evince,convey,impart,indicate,point,inform,reveal,display,communicate,pass,appear,read,register,record,indicate,read,register,record,usher,lead,take,direct,conduct,guide,race,run
 exhibitionist,egotist,egoist,swellhead
-showstopper,stopper,act,routine,number,turn,bit,showstopper,attraction,attractiveness,
+showstopper,stopper,act,routine,number,turn,bit,showstopper,attraction,attractiveness
 showboat,steamboat
 showcase,setting,background,scope,case,container
 showdown,confrontation,encounter,disagreement
@@ -60864,7 +60814,7 @@ shrilling,high,noise
 shrillness,stridence,stridency,timbre,timber,quality,tone
 shrilly,piercingly
 shrimp,runt,peewee,prawn,seafood,decapod,fish
-shrimpfish,teleost,teleostan,
+shrimpfish,teleost,teleostan
 shrimper,vessel,watercraft
 shrimpfish,teleost,teleostan
 shrimpy,puny,runty,small
@@ -61034,8 +60984,8 @@ sifting,winnow,winnowing,separation
 sigeh,marriage,matrimony,union,wedlock
 sigh,suspiration,utterance,vocalization,sound,suspire,breathe,respire,suspire,utter,emit
 sight,display,vision,modality,exteroception,position,view,perspective,ken,compass,range,reach,grasp,view,survey,look,looking,batch,deal,flock,hatful,heap,lot,mass,mess,mickle,mint,muckle,peck,pile,plenty,pot,raft,slew,spate,stack,wad,perceive,comprehend
-sightread,perform,perform,execute,do,
-sightsing,sightread,
+sightread,perform,perform,execute,do
+sightsing,sightread
 sighted,sighted,seeing
 sightedness,eyesight,seeing,sight,vision
 sighting,observation,observance,watching
@@ -61157,12 +61107,11 @@ silva,sylva,forest,woodland,timberland,timber
 silvan,sylvan,wooded,sylvan,spirit
 silvanus,Sylvanus,Silvanus
 silver,metallic,silvern,silvery,bright,argent,silvery,silverish,achromatic,eloquent,facile,fluent,articulate,Ag,conductor,gray,grayness,grey,greyness,flatware,silverware,trophy,prize,decoration,medal,medallion,palm,ribbon,plate,color,colorize,colorise,colourise,colourize,colour,discolor,discolour,colour,color
-silverbush,shrub,bush,silverberry,silverbush,oleaster,
-composite,
-silverplate,plate,
-grizzly,silvertip,bruin,
+silverbush,shrub,bush,silverberry,silverbush,oleaster
+silverplate,plate
+grizzly,silvertip,bruin
 eloquent,facile,fluent,silver,articulate
-silversmith,silverworker,jeweler,jeweller,
+silversmith,silverworker,jeweler,jeweller
 silverback,gorilla
 silverberry,silverbush,oleaster
 silverbush,shrub,bush,silverberry,oleaster
@@ -61550,7 +61499,7 @@ skull,bone,os
 skullcap,cap,calvaria,bone,os
 skullduggery,trickery,slickness,skulduggery,misrepresentation,deceit,deception
 skunk,rotter,rat,stinker,stinkpot,bum,puke,crumb,lowlife,git,shutout,defeat,licking,pot,grass,dope,weed,gage,sess,sens,smoke,locoweed,cannabis,marijuana,marihuana,ganja,polecat,mustelid,musteline,lurch,overcome,defeat
-skunkweed,polemonium,
+skunkweed,polemonium
 skunkbush,squawbush,sumac,sumach,shumac
 skunkweed,polemonium
 sky,entity,flip,toss,pitch,fling
@@ -61768,7 +61717,7 @@ sloganeer,propagandist,coin
 sloganeering,persuasion,suasion
 slogger,trudger,plodder,pedestrian,walker,footer,plodder,hack,drudge,hacker,slugger,boxer,pugilist
 slop,slops,swill,pigswill,pigwash,feed,provender,spill,splatter,move,displace,squelch,squish,splash,splosh,slosh,slog,footslog,plod,trudge,pad,tramp,ladle,lade,laden,swill,feed,give
-slopseller,trader,bargainer,dealer,monger,
+slopseller,trader,bargainer,dealer,monger
 slope,incline,side,formation,gradient,position,incline,pitch,lean,tilt,tip,slant,angle
 sloped,aslant,aslope,diagonal,slanted,slanting,sloping,inclined
 sloping,aslant,aslope,diagonal,slanted,slanting,sloped,inclined,gradual
@@ -61994,12 +61943,12 @@ snaffle,bit,grab,take,bridle
 snafu,disorganized,disorganised,blunder,blooper,bloomer,bungle,fuckup,flub,botch,boner,snarl,embrangle
 snag,bulge,bump,hump,gibbosity,gibbousness,jut,prominence,protuberance,protrusion,extrusion,excrescence,tree,rip,rent,split,tear,opening,gap,hitch,rub,obstacle,obstruction,hitch,catch,obtain,hew
 snail,gastropod,univalve,escargot,meat,gather,garner,collect
-snailflower,legume,,
+snailflower,legume
 snailfish,seasnail,scorpaenoid
 snailflower,legume
 snake,serpent,ophidian,diapsid,Snake,river,Hydra,Snake,constellation,object,glide,wind,curve,weave,wind,thread,meander,wander
-lizardfish,snakefish,malacopterygian,
-shellflower,turtlehead,snakehead,
+lizardfish,snakefish,malacopterygian
+shellflower,turtlehead,snakehead
 snakeberry,redberry,baneberry,cohosh
 snakebird,anhinga,darter
 snakebite,bite
@@ -62164,8 +62113,8 @@ soaked,drenched,saturated,soaking,sodden,sopping,soppy,wet,besotted,blotto,crock
 soaker,downpour,cloudburst,deluge,waterspout,torrent,pelter,rain,rainfall,alcoholic,alky,dipsomaniac,boozer,lush,souse,drunkard,drunk,rummy,sot,inebriate
 soaking,drenched,saturated,soaked,sodden,sopping,soppy,wet,soak,soakage,action,activity,drenching,souse,sousing,wetting,soak,wash,washing,lavation,sopping,dripping
 soap,cleanser,cleaner,bribe,payoff,scoop,max,goop,GHB,lather,cleanse,clean
-soapstone,soaprock,steatite,talc,talcum,
-soapweed,yucca,
+soapstone,soaprock,steatite,talc,talcum
+soapweed,yucca
 soapberry,tree
 soapbox,crate,dais,podium,pulpit,rostrum,ambo,stump,platform
 soapfish,serranid
@@ -62309,7 +62258,7 @@ solder,alloy,metal,join,conjoin
 solderer,worker
 soldering,bonding,fastening,attachment
 soldier,worker,spend,pass
-soldierfish,squirrelfish,
+soldierfish,squirrelfish
 soldierfish,squirrelfish
 soldiering,soldiership,skill,accomplishment,acquirement,acquisition,attainment,shirking,slacking,goldbricking,evasion,escape,dodging
 soldierlike,soldierly,warriorlike,martial,military
@@ -62608,7 +62557,6 @@ soundman,technician
 soundness,condition,status,wisdom,wiseness,good,goodness,firmness,strength
 soundproof,impervious,imperviable,insulate
 soup,dish,composition,situation,position,dope
-soupfin,
 toothbrush,mustache,moustache
 soupcon,touch,hint,tinge,mite,pinch,jot,speck
 soupiness,creaminess,thickness
@@ -62635,9 +62583,8 @@ soutache,braid,braiding
 soutane,cassock
 south,south,southbound,southward,southerly,southern,southerly,southern,southernmost,southmost,southeast,southeastern,southeasterly,southeasterly,southeast,southeastward,southwest,southwestern,southwesterly,southwesterly,southwest,southwestward,South,Confederacy,South,Dixie,Dixieland,S,South,southland,region
 south,southern
-southeast,
 Antarctic,polar
-southwest,sou'west,
+southwest,sou'west
 southbound,southward,south
 southeast,southeasterly,south,southeastern,southeasterly,south,SE,point,Southeast
 southeaster,sou'easter,wind
@@ -62810,7 +62757,7 @@ speakerphone,telephone,phone
 speakership,position,post,berth,office,spot,billet,place,situation
 speaking,speaking,mumbling,muttering,talking,tongued,articulate,utterance,vocalization,speechmaking,address,speech
 spear,lance,shaft,weapon,arm,gig,fizgig,fishgig,lance,implement,transfix,impale,empale,spike,protrude,jut,project
-spearhead,spearpoint,point,
+spearhead,spearpoint,point
 spearfish,billfish,marlin,billfish
 spearhead,leader,force,spearpoint,point,head,lead
 hastate,simple,unsubdivided,pointed
@@ -63137,7 +63084,7 @@ spiv,idler,loafer,layabout,bum
 spizella,Spizella
 splanchnic,visceral
 splash,plash,noise,dab,splatter,spatter,spattering,splashing,splattering,painting,splashing,wetting,sprinkle,splosh,scatter,sprinkle,dot,dust,disperse,squelch,squish,splosh,slosh,slop,slog,footslog,plod,trudge,pad,tramp,spatter,splatter,plash,splosh,swash,scatter,sprinkle,dot,dust,disperse,overlay,cover,splosh,slosh,slush,sound,go,dirty,soil,begrime,grime,colly,bemire
-mudguard,fender,wing,
+mudguard,fender,wing
 splashboard,washboard,protection,splasher,dashboard,protection
 splashdown,landing
 splashed,distributed,dabbled,spattered,splashy,splattered,covered,bespattered,spattered,besplashed,dirty,soiled,unclean
@@ -63278,9 +63225,7 @@ sporulate,produce,convert
 sporulation,monogenesis,agamogenesis
 spot,place,point,section,subdivision,smudge,blot,daub,smear,smirch,slur,blemish,defect,mar,speckle,dapple,patch,fleck,maculation,marking,section,subdivision,point,characteristic,position,post,berth,office,billet,place,situation,occupation,business,job,line,touch,attack,bit,pip,marker,marking,mark,spotlight,lamp,blot,smear,smirch,stain,mistake,error,fault,descry,espy,spy,sight,blemish,dirty,soil,begrime,grime,colly,bemire,fleck,blob,blot,change,mark
 see,check,insure,ensure,control,ascertain,assure
-weld,,spotweld,weld,
-welder,
-welding,
+weld,spotweld,weld
 spotless,immaculate,speckless,spic,spick,clean
 spotlessness,immaculateness,cleanness
 spotlight,limelight,glare,prominence,spot,lamp,foreground,highlight,light,illume,illumine,illuminate
@@ -63310,7 +63255,7 @@ spray,pesticide,atomizer,atomiser,sprayer,dispenser,spraying,jet,squirt,spurt,sp
 sprayer,laborer,labourer,jack,atomizer,atomiser,spray,dispenser
 spraying,dispersion,dispersal,dissemination,diffusion,spray,application,coating,covering
 spread,dispersed,distributed,prepared,outspread,extended,spreading,travel,gap,disparity,ranch,farm,scatter,distribution,dispersion,paste,condiment,banquet,feast,meal,repast,spreadhead,page,girth,bedspread,bedcover,counterpane,bedclothes,bedding,spreading,extension,distribute,propagate,move,overspread,cover,extend,unfold,open,undo,circulate,circularize,circularise,distribute,disseminate,propagate,broadcast,diffuse,disperse,publicize,publicise,air,bare,circulate,travel,go,move,locomote,scatter,circulate,distribute,diffuse,distribute,cover
-extended,stretch,extend,range,straddle,sprawl,spreadeagle,rout,beat,crush,shell,trounce,vanquish,
+extended,stretch,extend,range,straddle,sprawl,spreadeagle,rout,beat,crush,shell,trounce,vanquish
 fanned,distributed
 spreadeagle,rout,beat,crush,shell,trounce,vanquish
 spreader,broadcaster
@@ -63432,7 +63377,7 @@ squattiness,dumpiness,physique,build,habitus
 squatting,squat,squat,motion,movement,move,motility
 squatty,chunky,dumpy,squat,stumpy,short
 squaw,Indian
-squawbush,skunkbush,sumac,sumach,shumac,
+squawbush,skunkbush,sumac,sumach,shumac
 squawbush,skunkbush,sumac,sumach,shumac
 squawk,noise,gripe,kick,beef,bitch,objection,screak,skreak,skreigh,screech,shout,cry,call,yell,scream,holler,hollo,squall,gripe,grouse,crab,beef,bellyache,holler,complain,kick,plain,quetch,kvetch
 squawker,whiner,complainer,moaner,sniveller,crybaby,bellyacher,grumbler,loudspeaker,speaker
@@ -63628,7 +63573,7 @@ stanch,stem,staunch,halt,check
 stanchion,post
 stanchly,staunchly
 stand,base,pedestal,support,position,place,vegetation,flora,table,rack,support,standstill,stop,halt,viewpoint,standpoint,position,stance,posture,stall,booth,stop,stopover,layover,stands,bandstand,platform,defense,defence,rest,be,be,resist,withstand,judge,digest,endure,stomach,bear,tolerate,support,brook,abide,suffer,permit,allow,let,countenance,stay,remain,rest,continue,measure,put,set,place,pose,position,lay,resist,fend,fight,oppose,defend,serve,service
-standdown,abeyance,suspension,standdown,stop,stoppage,
+standdown,abeyance,suspension,standdown,stop,stoppage
 substitute,relief,reliever,backup,peer,equal,match,compeer
 erect,vertical,upright,stiff,inflexible
 standard,standard,modular,normative,regular,regulation,standardized,standardised,stock,normal,common,standard,accepted,authoritative,classical,definitive,basic,canonic,canonical,casebook,textbook,classic,criterial,criterional,orthodox,standard,received,acceptable,accepted,normative,prescriptive,stock,regular,criterion,measure,touchstone,reference,criterion,ideal,value,post,flag
@@ -64162,10 +64107,10 @@ stone,chromatic,rock,rock,material,stuff,gem,gemstone,crystal,pit,endocarp,peric
 blind,unsighted
 broke,bust,skint,poor
 unhearing,deaf
-lithops,stoneface,succulent,
+lithops,stoneface,succulent
 slaty,slatey,achromatic
-horseweed,stoneroot,richweed,herb,,
-stonewash,wash,launder,
+horseweed,stoneroot,richweed,herb
+stonewash,wash,launder
 stonechat,chat
 stonecress,herb
 stonecrop,sedum
@@ -64207,7 +64152,7 @@ stoppable,stoppable,abatable
 stoppage,arrest,check,halt,hitch,stay,stop,inaction,inactivity,inactiveness,blockage,block,closure,occlusion,stop,obstruction,obstructor,obstructer,impediment,impedimenta,stop,act
 stoppard,Stoppard,dramatist,playwright
 stopped,stopped,obstructed
-stopped,obstructed,chinked,caulked,
+stopped,obstructed,chinked,caulked
 stopper,plug,stopple,blockage,block,closure,occlusion,stop,stoppage,showstopper,act,routine,number,turn,bit,remark,comment,stopple,plug,secure
 stoppered,closed
 stopping,fillet,fastener,fastening,holdfast,fixing,playing
@@ -64217,7 +64162,6 @@ stopwatch,timer
 storage,retention,keeping,holding,storehouse,depot,entrepot,store,depository,deposit,repository,business,memory,store,hardware,repositing,reposition,warehousing,deposit,deposition
 store,shop,outlet,stock,fund,accumulation,memory,storage,hardware,storehouse,depot,entrepot,storage,depository,deposit,repository,keep,keep
 stored,keep
-concentrated,
 storefront,shopfront,front
 storehouse,depot,entrepot,storage,store,depository,deposit,repository
 storekeeper,shopkeeper,tradesman,merchant,merchandiser
@@ -64273,7 +64217,7 @@ straight,consecutive,continuous,uninterrupted,straight,aligned,unbent,untwisted,
 maneuver,manoeuvre
 erect,vertical,upright,backed,erectly
 blunt,candid,forthright,frank,outspoken,plainspoken,direct
-priggish,prim,prissy,prudish,puritanical,straitlaced,straightlaced,victorian,proper,
+priggish,prim,prissy,prudish,puritanical,straitlaced,straightlaced,victorian,proper
 outright,unlimited,unqualified
 straightarrow,straight
 straightaway,immediate,prompt,quick,fast,straight,section,segment,immediately,instantly,directly,now,forthwith
@@ -64290,7 +64234,7 @@ strained,labored,laboured,awkward,tense,constrained,forced,affected,unnatural,ag
 strainer,filter
 straining,arduous,strenuous,effortful,strain,effort,exertion,travail,sweat,distortion,overrefinement,torture,twisting,falsification,misrepresentaation
 strait,narrow,sound,channel,pass,straits,situation
-priggish,prim,prissy,prudish,puritanical,straitlaced,straightlaced,victorian,proper,
+priggish,prim,prissy,prudish,puritanical,straitlaced,straightlaced,victorian,proper
 straiten,confine,detain
 straitened,confine,detain
 straitjacket,hindrance,deterrent,impediment,balk,baulk,check,handicap,straightjacket,garment
@@ -64360,7 +64304,7 @@ streamlined,efficient
 streamliner,train
 streep,Streep,actress
 street,thoroughfare,thoroughfare,environment,opportunity,chance,neighborhood,neighbourhood
-streetwalk,prostitute,
+streetwalk,prostitute
 streetcar,tram,tramcar,trolley
 streetlight,lamp
 streetwalk,prostitute
@@ -65357,7 +65301,6 @@ surety,certainty,security,hostage,prisoner,captive,guarantor,warrantor,warranter
 surf,breaker,breakers,wave,glide,browse,search,seek,switch,shift,change
 surface,surface,aboveground,opencast,opencut,superficial,shallow,artifact,artefact,boundary,bound,bounds,layer,aspect,facet,open,airfoil,aerofoil,device,rise,ascend,coat,cover,appear
 adsorbent,adsorptive,chemisorptive,chemosorptive
-mine,
 surfacing,egress,egression,emergence
 surfactant,wetter
 surfbird,shorebird
@@ -65529,8 +65472,8 @@ swamphen,gallinule
 swampland,swamp,wetland
 swampy,boggy,marshy,miry,mucky,muddy,quaggy,sloughy,wet
 swan,affirm,verify,assert,avow,aver,swear,declare,roll,wander,stray,tramp,roam,cast,ramble,rove,range,drift,vagabond,travel,go,move,locomote,sweep,sail
-swanflower,swanneck,orchid,
-swanflower,swanneck,orchid,
+swanflower,swanneck,orchid
+swanflower,swanneck,orchid
 swanflower,swanneck,orchid
 swank,swanky,fashionable,stylish,chic,chicness,modishness,smartness,stylishness,elegance,flaunt,flash,ostentate,expose,exhibit,display
 swanky,swank,fashionable,stylish
@@ -66059,7 +66002,7 @@ tai,Thai,Tai,Siamese,Asian,Asiatic,Thai,Tai,Siamese,Tai,Thai,Tai,Siamese,Thai,Ta
 taichung,Taichung,city,metropolis
 taif,Taif,city,metropolis
 tail,process,outgrowth,appendage,end,ending,projection,buttocks,nates,arse,butt,backside,bum,buns,can,fundament,hindquarters,keister,posterior,prat,rear,rump,stern,seat,tooshie,tush,bottom,behind,derriere,fanny,ass,shadow,shadower,follower,spy,reverse,verso,empennage,rear,back,stern,quarter,poop,rear,back,chase,trail,tag,dog,track,pursue,follow,dock,bob,cut,top,pinch
-anthurium,tailflower,houseplant,
+anthurium,tailflower,houseplant
 tailback,back,back
 tailboard,tailgate,gate
 tailcoat,tails,formalwear,eveningwear
@@ -66146,7 +66089,7 @@ talking,speaking,talk,conversation
 talks,negotiation,dialogue,discussion,word,talk,talking,conversation,talk,discussion,treatment,discourse,talk,lecture,lecturing,lecture,talk,address,speech,talk,gossip,comment,scuttlebutt
 talky,chatty,gabby,garrulous,loquacious,talkative,voluble
 tall,tall,gangling,gangly,lanky,rangy,leggy,leggy,long,stately,statuesque,tallish,large,big,high,grandiloquent,magniloquent,rhetorical,difficult,hard,improbable,marvelous,marvellous,incredible,unbelievable
-tallgrass,grass,
+tallgrass,grass
 leggy,tall
 tallahassee,Tallahassee
 tallapoosa,Tallapoosa,river
@@ -66328,7 +66271,7 @@ taps,pat,rap,tap,sound,tap,spigot,hydrant,faucet,rap,strike,tap,bump,blow,tap,pl
 tapster,tapper,publican
 tar,pitch,bitumen,mariner,seaman,Jack,seafarer,gob,sailor,crewman,coat,surface
 punish,penalize,penalise
-tarwood,conifer,tarwood,conifer,
+tarwood,conifer,tarwood,conifer
 tara,Tara,town
 taracahitian,Taracahitian,Indian
 taradiddle,fib,story,tale,tarradiddle,lie,prevarication,baloney,boloney,bilgewater,bosh,drool,humbug,tarradiddle,tommyrot,tosh,twaddle,nonsense,bunk,nonsensicality,meaninglessness,hokum
@@ -66412,7 +66355,7 @@ tasselled,tasseled,adorned,decorated
 tasset,tasse
 tasso,Tasso,poet
 taste,sensation,preference,penchant,predilection,liking,appreciation,discernment,perceptiveness,discrimination,secernment,experience,mouthful,tasting,sensing,perception,savor,savour,sample,try,consume,ingest,take,have,perceive,comprehend,smack,savor,savour,identify,know,experience,live
-taster,sampler,critic,
+taster,sampler,critic
 tastebud,chemoreceptor
 tasteful,tasteful,aesthetic,esthetic,artistic,pleasing,understated,unostentatious,unpretentious,elegant,unpretentious,tasteful,ambrosial,ambrosian,nectarous,bitter,bitterish,bittersweet,semisweet,choice,dainty,tasty,delectable,delicious,luscious,scrumptious,toothsome,yummy,flavored,flavoured,seasoned,flavorful,flavourful,flavorous,flavourous,flavorsome,flavoursome,sapid,saporous,fruity,rich,robust,piquant,savory,savoury,spicy,zesty,salty,salt,smoky,sour,sweet,winy,winey,grapey,grapy,nutty,nutlike,appetizing,appetising,palatable,pungent,salt,sour,sweet,neat,refined,elegant
 tastefully,tastily
@@ -67002,7 +66945,7 @@ tessellation,juxtaposition,apposition,collocation,decoration
 tessera,tile
 tessin,Ticino,Tessin
 test,trial,run,attempt,effort,endeavor,endeavour,try,trial,attempt,effort,endeavor,endeavour,try,trial,tryout,experiment,experimentation,examination,exam,communication,communicating,covering,cover,prove,try,examine,essay,judge,screen,check,quiz,examine,be,score,determine,check,see,ascertain,watch,learn,take,undergo,submit
-testcross,hybridization,hybridisation,crossbreeding,crossing,cross,interbreeding,hybridizing,
+testcross,hybridization,hybridisation,crossbreeding,crossing,cross,interbreeding,hybridizing
 testa,episperm
 testacea,Testacea
 testacean,rhizopod,rhizopodan
@@ -67476,7 +67419,7 @@ thrasher,thresher,oscine,thresher,shark
 thrashing,walloping,debacle,drubbing,slaughter,trouncing,whipping,defeat,licking,beating,licking,drubbing,lacing,trouncing,whacking
 thraupidae,Thraupidae
 thread,yarn,cord,ribbon,object,thinking,thought,cerebration,intellection,mentation,rib,weave,wind,meander,wander,travel,go,move,locomote,guide,run,draw,pass,extract,pull,guide,run,draw,pass,string,draw,arrange
-threadfish,jack,
+threadfish,jack
 threadbare,banal,commonplace,hackneyed,shopworn,stock,timeworn,tired,trite,unoriginal,worn
 threaded,rib
 threader,bodkin
@@ -67686,8 +67629,8 @@ tichodroma,Tichodroma
 tichodrome,creeper
 ticino,Ticino,Tessin
 tick,ticking,sound,acarine,check,mark,mattress,click,sound,go,ticktock,ticktack,beat,sound,go,retick,sew,stitch,check,mark,verify
-ticktacktoe,ticktacktoo,
-coreopsis,tickseed,tickweed,herb,
+ticktacktoe,ticktacktoo
+coreopsis,tickseed,tickweed,herb
 ticker,heart,pump,viscus,watch,timepiece,timekeeper
 ticket,summons,process,slate,list,listing,appropriateness,fine,book,supply,provide,render,furnish
 ticking,tick,sound,fabric,cloth,material,textile
@@ -68140,8 +68083,8 @@ tonga,Tonga,country,state,land,Tonga,Bantu
 tongan,Tongan,country,state,land,Tongan,Polynesian
 tongs,device
 tongue,lingua,glossa,clapper,organ,articulator,language,knife,projection,speech,delivery,spit,cape,ness,organs,flap,clapper,striker,play,spiel,lick,lap
-tonguefish,flatfish,
-tongueflower,orchid,
+tonguefish,flatfish
+tongueflower,orchid
 bantering,facetious,humorous,humourous,banteringly,facetiously,jokingly
 chiding,scolding,objurgation,rebuke,reproof,reproval,reprehension,reprimand
 lingulate,rounded
@@ -68290,7 +68233,7 @@ torsion,tortuosity,tortuousness,contortion,crookedness,distortion,torque,force
 torsk,cusk,gadoid
 torso,trunk,body
 tort,wrongdoing,misconduct
-tortfeasor,party,
+tortfeasor,party
 torte,cake
 tortellini,pasta
 tortfeasor,party
@@ -68320,7 +68263,7 @@ toscanini,Toscanini,conductor,director
 tosh,baloney,boloney,bilgewater,bosh,drool,humbug,taradiddle,tarradiddle,tommyrot,twaddle,nonsense,bunk,nonsensicality,meaninglessness,hokum
 tosk,Tosk,Albanian
 toss,flip,throw,pass,flip,throw,motion,movement,move,motility,flip,sky,pitch,fling,flip,turn,chuck,throw,convulse,thresh,thrash,slash,jactitate,shake,agitate,discard,fling,dispose,remove,agitate,vex,disturb,commove
-tossup,luck,fortune,chance,hazard,
+tossup,luck,fortune,chance,hazard
 tosser,wanker,masturbator,onanist,thrower
 tossing,agitated,moving
 tossup,luck,fortune,chance,hazard
@@ -68492,7 +68435,7 @@ tracy,Tracy,actor,histrion,player,thespian
 trad,jazz
 trade,commercial,commerce,commercialism,mercantilism,craft,class,barter,swap,swop,exchange,interchange,craft,occupation,business,job,line,deal,transaction,dealing,dealings,patronage,business,merchandise,exchange,change,interchange,sell,swap,swop,switch,exchange,change,interchange,deal,sell,transact
 property,belongings,holding
-tradeoff,exchange,
+tradeoff,exchange
 tradecraft,craft,craftsmanship,workmanship
 traded,listed
 trademark,hallmark,earmark,stylemark,characteristic,marker,marking,mark
@@ -68797,7 +68740,7 @@ treachery,perfidy,perfidiousness,disloyalty,betrayal,treason,perfidy,dishonesty,
 treacle,syrup,sirup,mush,sentimentalism
 treacly,cloying,saccharine,syrupy,sweet
 tread,pace,stride,step,surface,contact,tangency,step,travel,go,move,locomote,trample,walk,squash,crush,squelch,mash,squeeze,brace,give,apply,copulate,mate,pair,couple
-treadmill,treadwheel,mill,grinder,
+treadmill,treadwheel,mill,grinder
 treadle,pedal,lever,tread,trample,operate,control
 treadmill,treadwheel,mill,grinder,occupation,business,job,line
 treadwheel,treadmill,mill,grinder
@@ -68822,7 +68765,7 @@ trebuchet,catapult,arbalest,arbalist,ballista,bricole,mangonel,onager,trebucket,
 trebucket,catapult,arbalest,arbalist,ballista,bricole,mangonel,onager,trebuchet,artillery,gun,ordnance
 treck,hike
 tree,Tree,actor,histrion,player,thespian,hunt,run
-frog,toad,anuran,batrachian,salientian,frog,toad,anuran,batrachian,salientian,
+frog,toad,anuran,batrachian,salientian,frog,toad,anuran,batrachian,salientian
 arboreal,arboreous
 arboreal,arboreous,arborescent,arboresque,arboriform,dendriform,dendroid,dendroidal,treelike,branchy
 arborolatry,worship
@@ -69263,7 +69206,6 @@ truculent,aggressive,hostile
 trudge,hike,tramp,slog,footslog,plod,pad,tramp,walk
 trudger,plodder,slogger,pedestrian,walker,footer
 true,true,actual,genuine,literal,real,apodictic,apodeictic,factual,so,truthful,sure,correct,right,faithful,genuine,echt,honest,honorable,sincere,real,genuine,echt,typical,accurate,faithful,truthful,honest,veracious,honest,dependable,honest,reliable,trustworthy,trusty,genuine,unfeigned,sincere,real,geographic,geographical,lawful,rightful,legitimate,harmonious,straight,even,reliable,alignment,align,aline,adjust,admittedly,avowedly,confessedly
-realistic,
 truehearted,firm,loyal,fast,faithful
 truelove,sweetheart,sweetie,steady,lover
 trueness,exactness,exactitude
@@ -69277,7 +69219,7 @@ trumbull,Trumbull,Trumbull,painter,Trumbull,poet
 trump,cornet,horn,trumpet,brass,sound,go,outdo,outflank,best,scoop,beat,crush,shell,trounce,vanquish,ruff,move,go,announce,denote
 trumpery,folderol,rubbish,tripe,trash,applesauce,codswallop,drivel,garbage,falderal,folderol,frills,gimcrackery,gimcracks,nonsense,decoration,ornament,ornamentation
 trumpet,cornet,horn,trump,brass,proclaim,exclaim,promulgate,play,utter,emit
-trumpetwood,imbauba,
+trumpetwood,imbauba
 trumpeter,cornetist,musician,instrumentalist,player,herald,messenger,courier,wader,swan
 trumpetfish,teleost,teleostan
 trumpets,cornet,horn,trumpet,trump,brass
@@ -69810,7 +69752,7 @@ u,uracil,U,nucleotide,uranium,U,metal,U,letter
 submarine,pigboat,sub,submersible
 lease,rental,letting
 reversion,reverse,reversal,turnabout,turnaround
-u.s.,U.S.,America,US,U.S.,USA,U.S.A.,
+u.s.,U.S.,America,US,U.S.,USA,U.S.A.
 u.s.a.,America,US,U.S.,USA,U.S.A.,USA,army
 u308,yellowcake,U308,compound
 uakari,platyrrhine
@@ -69945,7 +69887,7 @@ umteenth,umpteenth,umptieth,ordinal
 un,UN
 unpatriotic,disloyal
 ungetatable,inaccessible,unaccessible
-ungetatable,inaccessible,unaccessible,
+ungetatable,inaccessible,unaccessible
 unabashed,unembarrassed,unashamed
 unabated,intense
 unable,unable,incapable,ineffective,ineffectual,impotent
@@ -72334,7 +72276,7 @@ usda,Agriculture,USDA
 use,usage,utilization,utilisation,employment,exercise,activity,utility,usefulness,function,purpose,role,utility,usefulness,consumption,usance,demand,habit,wont,custom,usage,usance,enjoyment,manipulation,influence,utilize,utilise,apply,employ,habituate,consume,ingest,take,have,exploit,work,expend,practice,apply,act,move
 useable,functional,usable,operable,operational,serviceable,usable,useful,utile,available,usable,disposable
 used,used,utilized,utilised,exploited,victimized,victimised,misused,secondhand,old
-consumed,exhausted,
+consumed,exhausted
 useful,useful,utile,helpful,multipurpose,reclaimable,recyclable,reusable,serviceable,useable,usable,utilitarian,utilizable,effective,effectual,efficacious,expedient,helpful,profitable,serviceable,valuable,important,practical,utilitarian,functional
 usefulness,utility,quality
 useless,useless,discarded,junked,scrap,waste,futile,ineffectual,otiose,unavailing,inutile,unprofitable,unserviceable,unusable,unuseable,ineffective,uneffective,ineffectual,unprofitable,unserviceable,unhelpful
@@ -72804,7 +72746,7 @@ veloute,sauce
 velum,flap
 velveeta,Velveeta,cheese
 velvet,velvety,smooth,velvety,soft,fabric,cloth,material,textile
-velvetleaf,shrub,bush,velvetleaf,velvetweed,mallow,
+velvetleaf,shrub,bush,velvetleaf,velvetweed,mallow
 velveteen,fabric,cloth,material,textile
 velvetleaf,shrub,bush,velvetweed,mallow
 velvetweed,velvetleaf,mallow
@@ -72862,7 +72804,7 @@ venomous,deadly,virulent,toxic,acerb,acerbic,acid,acrid,bitter,blistering,causti
 venomously,poisonously
 venose,veined,veinlike,patterned
 vent,venthole,blowhole,hole,orifice,opening,porta,volcano,crack,cleft,crevice,fissure,scissure,slit,release,outlet,activity,ventilate,express,show,evince,ventilate,air,refresh,freshen
-vent,venthole,blowhole,hole,
+vent,venthole,blowhole,hole
 ventail,camail,aventail,hood
 vented,ventilated
 venter,speaker,talker,utterer,verbalizer,verbaliser,abdomen,stomach,belly,uterus,womb
@@ -73659,7 +73601,7 @@ vulvitis,inflammation,redness,rubor
 vulvovaginitis,inflammation,redness,rubor
 w,tungsten,wolfram,W,metal,west,W,watt,W,W,letter
 w.c.,closet,W.C.,loo,toilet,lavatory,lav,can,john,privy,bathroom
-w.m.d.,WMD,W.M.D.,weapon,arm,
+w.m.d.,WMD,W.M.D.,weapon,arm
 wa,Washington,WA
 wabash,Wabash,river
 wac,Wac,soldier,woman
@@ -73766,7 +73708,6 @@ walkout,strike,protest,objection,dissent
 walkover,cinch,breeze,picnic,snap,pushover,undertaking,project,task,labor
 walkway,walk,paseo,path
 wall,partition,divider,rampart,bulwark,embankment,object,fence,fencing,paries,stratum,formation,layer,bed,difficulty,palisade,fence,surround,protect
-wallpaperer,
 wallaby,kangaroo
 wallace,Wallace,insurgent,insurrectionist,rebel,Wallace,writer,author,Wallace,naturalist
 wallah,worker
@@ -73936,7 +73877,7 @@ wassailer,carouser,drinker,imbiber,toper,juicer,toaster,supporter,protagonist,ch
 wassermann,Wassermann,bacteriologist,Wassermann
 wastage,decrease,decrement,loss
 waste,discarded,junked,scrap,useless,desert,godforsaken,wild,inhospitable,material,stuff,wastefulness,dissipation,activity,thriftlessness,wastefulness,improvidence,shortsightedness,barren,wasteland,wilderness,wild,act,blow,squander,use,expend,use,utilize,utilise,apply,employ,discard,fling,toss,dispose,run,flow,feed,course,neutralize,neutralise,liquidate,kill,consume,squander,ware,spend,expend,drop,languish,weaken,emaciate,macerate,enfeeble,debilitate,drain,devastate,desolate,ravage,scourge,destroy,ruin,rot,devolve,deteriorate,drop,degenerate
-dump,wasteyard,dumpsite,site,
+dump,wasteyard,dumpsite,site
 wastebasket,container
 wastebin,ashcan,ashbin,dustbin,bin
 wasted,otiose,pointless,superfluous,worthless,squandered,lost,atrophied,diminished,bony,cadaverous,emaciated,gaunt,haggard,pinched,skeletal,thin,lean,blasted,desolate,desolated,devastated,ravaged,ruined,destroyed
@@ -73964,7 +73905,6 @@ watchstrap,watchband,wristband,bracelet,band
 watchtower,tower
 watchword,cry,motto,slogan,catchword,shibboleth,password,word,parole,countersign,secret,arcanum
 water,H2O,liquid,thing,facility,installation,element,urine,piss,pee,piddle,weewee,excretion,excreta,excrement,food,nutrient,irrigate,wet,supply,provide,render,furnish,secrete,release,fill
-mint,
 wash,launder
 inhospitable,washed,clean
 waterbird,waterfowl
@@ -74181,7 +74121,7 @@ weighbridge,scale
 weigher,official,functionary
 weighing,deliberation,advisement,consideration
 weight,importance,artifact,artefact,oppression,oppressiveness,metric,unit,weighting,coefficient,burden,burthen,charge,slant,angle,bias,predetermine
-weightlift,press,exercise,
+weightlift,press,exercise
 weighted,leaden,heavy,adjusted
 weightiness,heaviness,weight
 weighting,weight,coefficient
@@ -74227,8 +74167,7 @@ well,well,fine,asymptomatic,symptomless,cured,healed,recovered,good,fit,healthy,
 advised,considered,wise,wise
 furnished,equipped
 balanced,adjusted
-good,
-wellbeing,welfare,upbeat,eudaemonia,eudaimonia,prosperity,successfulness,
+wellbeing,welfare,upbeat,eudaemonia,eudaimonia,prosperity,successfulness
 happy,felicitous
 chiseled,distinct,clear
 favorable,friendly
@@ -74256,7 +74195,7 @@ shaven,shaved
 comfortable,easy,prosperous,rich
 built,stacked,shapely
 respected,reputable
-timely,seasonable,opportune,,seasonably,timely,apropos
+timely,seasonable,opportune,seasonably,timely,apropos
 comfortable,easy,prosperous,rich
 tested,tried,proved,proven
 shapely,felicitous
@@ -74315,7 +74254,7 @@ westside,west
 westward,westbound,westerly,west,westwards
 westwards,westward
 wet,wet,bedewed,dewy,besprent,sprinkled,boggy,marshy,miry,mucky,muddy,quaggy,sloughy,swampy,clammy,dank,damp,dampish,moist,drenched,saturated,soaked,soaking,sodden,sopping,soppy,dripping,drippy,drizzly,dunked,soused,humid,misty,muggy,steamy,sticky,perspiring,sweating,sweaty,reeking,dripping,watery,rheumy,showery,rainy,soggy,waterlogged,steaming,sticky,tacky,washed,watery,undried,wet,wet,lactating,fresh,alcoholic,besotted,blotto,crocked,cockeyed,fuddled,loaded,pissed,pixilated,plastered,potty,slopped,sloshed,smashed,soaked,soused,sozzled,squiffy,stiff,tiddly,tiddley,tight,tipsy,intoxicated,drunk,inebriated,moisture,wetness,change,alter,modify,make,urinate,piddle,puddle,micturate,piss,pee,wee
-wetnurse,amah,nanny,nursemaid,nurse,,,breastfeed,suckle,suck,nurse,lactate,feed,give
+wetnurse,amah,nanny,nursemaid,nurse,breastfeed,suckle,suck,nurse,lactate,feed,give
 wetback,greaser,taco,Mexican
 wether,sheep
 wetland,land,ground,soil
@@ -74347,7 +74286,7 @@ whatsis,whatchamacallit,stuff,sundry,sundries,object
 whatsoever,any,whatever,some
 wheal,wale,welt,weal,injury,hurt,harm,trauma
 wheat,corn,cereal,grain,cereal
-wheatgrass,grass,
+wheatgrass,grass
 wheatear,thrush
 wheaten,wholemeal,grain,cereal
 wheatfield,grainfield
@@ -74424,8 +74363,7 @@ whinstone,whin,rock,stone
 whiny,fretful,querulous,whiney,whining,complaining,complaintive
 whip,instrument,legislator,dessert,sweet,afters,flexibility,flexibleness,lash,whiplash,blow,flog,welt,lather,lash,slash,strap,trounce,beat,worst,pip,beat,crush,shell,trounce,vanquish,convulse,thresh,thrash,slash,toss,jactitate,lash,strike,whisk,beat,scramble,blister,scald,attack,round,assail,snipe,assault
 solicitation,appeal,collection,ingathering
-arachnid,arachnoid,
-colubrid,
+arachnid,arachnoid
 whipcord,cord,fabric,cloth,material,textile
 whiplash,injury,hurt,harm,trauma,whip,lash,blow
 whiplike,flagellate,flagellated
@@ -74467,7 +74405,7 @@ whisperer,speaker,talker,utterer,verbalizer,verbaliser
 whispering,murmuring,susurrant,soft,rustle,rustling,whisper,noise,whisper,susurration,speaking
 whist,cards
 whistle,whistling,sound,whistling,signal,signaling,sign,pennywhistle,recorder,sound,go,travel,go,move,locomote,communicate,intercommunicate,move,displace,sing,sound,go,sign,signal,signalize,signalise
-whistleblower,informant,source,,
+whistleblower,informant,source
 whistleblower,informant,source
 whistler,Whistler,painter,signaler,signaller,marmot,goldeneye,duck,thickhead,flycatcher
 whistlestop,campaign,run
@@ -74746,7 +74684,7 @@ wineskin,skin
 winey,winy,tasteful
 winfred,Boniface,Winfred,Wynfrith,missionary,saint
 wing,organ,airfoil,aerofoil,surface,offstage,backstage,stage,flank,formation,helping,portion,serving,fender,barrier,annex,annexe,extension,addition,improver,fly,travel,go,move,locomote
-thumbnut,nut,
+thumbnut,nut
 alar,alary,aliform,winged
 wingback,back,back
 winged,winged,alar,alary,aliform,alate,alated,batwing,brachypterous,flying,volant,winglike,pinioned,fast
@@ -74957,10 +74895,9 @@ wonted,accustomed,customary,habitual,usual
 wonton,dumpling,dumplings,soup
 woo,court,court,romance,solicit,act,move
 wood,forest,woods,vegetation,flora,Wood,actress,Wood,conductor,director,Wood,writer,author,Wood,painter,woodwind,wind,club
-woodhewer,woodcreeper,tyrannid,
-woodfern,fern,,
-ranid,
-rodent,gnawer,
+woodhewer,woodcreeper,tyrannid
+woodfern,fern
+rodent,gnawer
 woodbine,vine,honeysuckle
 woodborer,borer,invertebrate
 woodbury,Woodbury,economist
@@ -75050,7 +74987,7 @@ wordsworth,Wordsworth,poet
 wordsworthian,Wordsworthian,poet
 wordy,redundant,prolix,tedious,verbose,windy,prolix
 work,activity,product,production,employment,occupation,business,job,line,study,learning,acquisition,oeuvre,output,workplace,energy,act,succeed,win,function,operate,go,run,process,transform,transmute,transubstantiate,exercise,make,pass,go,proceed,move,move,displace,bring,play,wreak,make,create,use,utilize,utilise,apply,employ,cultivate,crop,fix,prepare,ready,set,be,influence,affect,impact,touch,operate,run,manage,deal,care,handle,stimulate,excite,stir,capture,enamour,trance,catch,becharm,enamor,captivate,beguile,charm,fascinate,bewitch,entrance,enchant,shape,form,mold,mould,forge,move,displace,knead,manipulate,exploit,use,utilize,utilise,apply,employ,solve,lick,understand,ferment,convert,sour,turn,ferment,turn,become,go,get
-workboard,board,
+workboard,board
 clothing,vesture,wear
 clothing,vesture,wear
 demonstration,manifestation
@@ -75110,7 +75047,7 @@ wormseed,goosefoot
 wormwood,subshrub,suffrutex
 wormy,vermiculate,worn,cringing,groveling,grovelling,wormlike,submissive
 worn,worn,aged,attrited,creaky,decrepit,woebegone,eared,eroded,scoured,frayed,mangy,mangey,mothy,ragged,raddled,ratty,shabby,tatty,scruffy,seedy,shopworn,shopsoiled,tattered,tatterdemalion,threadbare,thumbed,vermiculate,wormy,waterworn,weatherworn,weathered,battered,old,careworn,drawn,haggard,raddled,tired
-raddled,worn,exhausted,fagged,fatigued,spent,tired,
+raddled,worn,exhausted,fagged,fatigued,spent,tired
 worried,disquieted,distressed,disturbed,upset,troubled
 worrier,fusspot,worrywart,spoilsport,killjoy
 worriment,troublesomeness,inconvenience,difficulty,difficultness

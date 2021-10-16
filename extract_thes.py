@@ -25,7 +25,8 @@ def extract(in_file, out_file):
         elif line_type == LineType.BODY:
             words = line.split(sep='|')
             words_stripped = [w.strip() for w in words]
-            curr_entry += words_stripped[1:]
+            words_no_blank = [w for w in words_stripped if len(w) > 0]
+            curr_entry += words_no_blank[1:]
     out_file.write(','.join(curr_entry) + '\n')
 
 
