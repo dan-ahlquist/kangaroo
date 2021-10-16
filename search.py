@@ -30,7 +30,7 @@ def search(in_file, out_file):
         roos = find_joeys(line)
         if roos:
             parent = line.split(',')[0]
-            out_list = reversed(sorted(([parent] + roos), key=len))
+            out_list = [parent] + roos
             out_line = ','.join(out_list) + '\n'
             out_file.write(out_line)
 
